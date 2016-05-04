@@ -1,0 +1,2190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"><responseDate>2016-04-21T10:53:04.258+02:00</responseDate><request verb="GetRecord" identifier="oai:beeldengeluid.nl:Expressie:4214161" metadataPrefix="iMMix">http://integrator.beeldengeluid.nl:80/search_service_rs/oai/</request><GetRecord><record><header><identifier>oai:beeldengeluid.nl:Expressie:4214161</identifier><datestamp>2016-04-08T11:53:56Z</datestamp></header><metadata><iMMix:DataSetExpressie xmlns:iMMix="http://instituut.beeldengeluid.nl/namespace/iMMix" xmlns:ns2="http://beeldengeluid.nl/webservices/verityindexservice" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<iMMix:doc id="/354423/359340/395998/4214161">
+<iMMix:expressie>
+<iMMix:docid>KN_1655739</iMMix:docid>
+<iMMix:afleveringsnummer>2</iMMix:afleveringsnummer>
+<iMMix:deel/>
+<iMMix:tijdsduur>1220160</iMMix:tijdsduur>
+<iMMix:broncatalogus/>
+<iMMix:beschikbaarstelling/>
+<iMMix:collecties_online/>
+<iMMix:descriptie>
+<iMMix:titels>
+<iMMix:titel hoofdtitel="Y">
+<iMMix:tekst>Roland Kahn, directeur kledingketen CoolCat</iMMix:tekst>
+<iMMix:taal/>
+<iMMix:type>gegeven titel</iMMix:type>
+<iMMix:bron/>
+</iMMix:titel>
+</iMMix:titels>
+<iMMix:rollen>
+<iMMix:maker>
+<iMMix:naam>Jinek, Eva</iMMix:naam>
+<iMMix:toelichting/>
+<iMMix:functies>
+<iMMix:functie>presentatie</iMMix:functie>
+</iMMix:functies>
+</iMMix:maker>
+<iMMix:maker>
+<iMMix:naam>Jinek, Eva</iMMix:naam>
+<iMMix:toelichting/>
+<iMMix:functies>
+<iMMix:functie>interviewer</iMMix:functie>
+</iMMix:functies>
+</iMMix:maker>
+<iMMix:spreker>
+<iMMix:naam>Kahn, Roland</iMMix:naam>
+<iMMix:functie/>
+</iMMix:spreker>
+</iMMix:rollen>
+<iMMix:taalgebruiken/>
+<iMMix:nationaliteiten/>
+<iMMix:context>
+<iMMix:onderscheiding/>
+<iMMix:gelegenheid/>
+<iMMix:kleur>kleur</iMMix:kleur>
+<iMMix:indicatie_stom/>
+<iMMix:contekst/>
+<iMMix:aanleidingcompositie/>
+</iMMix:context>
+<iMMix:opnamen>
+<iMMix:opname>
+<iMMix:begindatum/>
+<iMMix:einddatum/>
+<iMMix:datumprecisie/>
+<iMMix:productiejaar>2014</iMMix:productiejaar>
+<iMMix:montagedatum/>
+<iMMix:begintijd/>
+<iMMix:eindtijd/>
+<iMMix:indicatiepubliek/>
+<iMMix:annotatie/>
+</iMMix:opname>
+</iMMix:opnamen>
+<iMMix:recht>
+<iMMix:bron/>
+<iMMix:rechten/>
+<iMMix:blokkering/>
+<iMMix:licentie/>
+</iMMix:recht>
+<iMMix:descriptie_ontsluitingen>
+<iMMix:kijkwijzer_classificaties>
+<iMMix:kijkwijzer_classificatie>
+<iMMix:onderwerp>Angst</iMMix:onderwerp>
+<iMMix:leeftijdsgrens>alle leeftijden</iMMix:leeftijdsgrens>
+</iMMix:kijkwijzer_classificatie>
+<iMMix:kijkwijzer_classificatie>
+<iMMix:onderwerp>Discriminatie</iMMix:onderwerp>
+<iMMix:leeftijdsgrens>alle leeftijden</iMMix:leeftijdsgrens>
+</iMMix:kijkwijzer_classificatie>
+<iMMix:kijkwijzer_classificatie>
+<iMMix:onderwerp>Drugs- en alcoholmisbruik</iMMix:onderwerp>
+<iMMix:leeftijdsgrens>alle leeftijden</iMMix:leeftijdsgrens>
+</iMMix:kijkwijzer_classificatie>
+<iMMix:kijkwijzer_classificatie>
+<iMMix:onderwerp>Geweld</iMMix:onderwerp>
+<iMMix:leeftijdsgrens>alle leeftijden</iMMix:leeftijdsgrens>
+</iMMix:kijkwijzer_classificatie>
+<iMMix:kijkwijzer_classificatie>
+<iMMix:onderwerp>Sex</iMMix:onderwerp>
+<iMMix:leeftijdsgrens>alle leeftijden</iMMix:leeftijdsgrens>
+</iMMix:kijkwijzer_classificatie>
+</iMMix:kijkwijzer_classificaties>
+</iMMix:descriptie_ontsluitingen>
+</iMMix:descriptie>
+</iMMix:expressie>
+<iMMix:publicaties>
+<iMMix:publicatie>
+<iMMix:id>4618536</iMMix:id>
+<iMMix:titel/>
+<iMMix:type>uitzending</iMMix:type>
+<iMMix:begindatum>28-01-2014</iMMix:begindatum>
+<iMMix:einddatum/>
+<iMMix:datumprecisie/>
+<iMMix:begintijd>73518000</iMMix:begintijd>
+<iMMix:eindtijd>74738160</iMMix:eindtijd>
+<iMMix:tijdsduur>1220160</iMMix:tijdsduur>
+<iMMix:tijdsduur_annotatie/>
+<iMMix:begintijdstip/>
+<iMMix:annotatie_publicatie>Stereo</iMMix:annotatie_publicatie>
+<iMMix:tijdcodestandaard/>
+<iMMix:distributiekanaal>televisie</iMMix:distributiekanaal>
+<iMMix:distributieformaat>16:9</iMMix:distributieformaat>
+<iMMix:gelegenheid/>
+<iMMix:indicatie_herhaling>0</iMMix:indicatie_herhaling>
+<iMMix:indicatie_live>1</iMMix:indicatie_live>
+<iMMix:uitzendfrequentie/>
+<iMMix:begin_binnen_expressie/>
+<iMMix:einde_binnen_expressie/>
+<iMMix:ontvangstdatum/>
+<iMMix:weeknummer/>
+<iMMix:sorteerdatum>28-01-2014</iMMix:sorteerdatum>
+<iMMix:sorteertype>1</iMMix:sorteertype>
+<iMMix:technische_annotatie/>
+<iMMix:uitzendnorm>SD</iMMix:uitzendnorm>
+<iMMix:productID>KN_1655739</iMMix:productID>
+<iMMix:ugstatus>Onbekend</iMMix:ugstatus>
+<iMMix:netten>
+<iMMix:net>Nederland 2</iMMix:net>
+</iMMix:netten>
+<iMMix:zendgemachtigden>
+<iMMix:zendgemachtigde>KRO-NCRV</iMMix:zendgemachtigde>
+</iMMix:zendgemachtigden>
+</iMMix:publicatie>
+</iMMix:publicaties>
+<iMMix:Posities>
+<iMMix:Positie>
+<iMMix:begintijd/>
+<iMMix:eindtijd/>
+<iMMix:annotatie/>
+<iMMix:beginopdrager>73518800</iMMix:beginopdrager>
+<iMMix:eindeopdrager>74738960</iMMix:eindeopdrager>
+<iMMix:volgnummer/>
+<iMMix:dragernummer>EN_OP_EN_____-WON01175562</iMMix:dragernummer>
+<iMMix:dragertype>media archive</iMMix:dragertype>
+<iMMix:archiefstatus/>
+<iMMix:depotstatus/>
+<iMMix:bewaarplaats>Digitaal Archief</iMMix:bewaarplaats>
+<iMMix:opbergeenheid/>
+<iMMix:dragerannotatie/>
+<iMMix:dragersoort>Programma</iMMix:dragersoort>
+<iMMix:dragerid>11862876</iMMix:dragerid>
+<iMMix:DMGUID>20140128214849908007904507980C16E66DA380000007232B00000D0F015010</iMMix:DMGUID>
+<iMMix:SOF>73321960</iMMix:SOF>
+<iMMix:publID>4618536</iMMix:publID>
+<iMMix:ExterneReferentie/>
+<iMMix:beginpositieopdrager/>
+<iMMix:eindpositieopdrager/>
+<iMMix:formaat>SD</iMMix:formaat>
+<iMMix:herkomst/>
+<iMMix:geluidstype/>
+<iMMix:metrage/>
+<iMMix:sortering/>
+<iMMix:locatie/>
+<iMMix:positieid>95181887</iMMix:positieid>
+<iMMix:TechnischeGegevens/>
+<iMMix:datum_aangemaakt>2014-01-28T21:52:21Z</iMMix:datum_aangemaakt>
+</iMMix:Positie>
+<iMMix:Positie>
+<iMMix:begintijd/>
+<iMMix:eindtijd/>
+<iMMix:annotatie/>
+<iMMix:beginopdrager>73518800</iMMix:beginopdrager>
+<iMMix:eindeopdrager>74738960</iMMix:eindeopdrager>
+<iMMix:volgnummer/>
+<iMMix:dragernummer>EN_OP_EN_____-WON01175562.mpg</iMMix:dragernummer>
+<iMMix:dragertype>MPG1</iMMix:dragertype>
+<iMMix:archiefstatus/>
+<iMMix:depotstatus/>
+<iMMix:bewaarplaats>Digitaal Archief</iMMix:bewaarplaats>
+<iMMix:opbergeenheid/>
+<iMMix:dragerannotatie/>
+<iMMix:dragersoort>Programma</iMMix:dragersoort>
+<iMMix:dragerid>11862877</iMMix:dragerid>
+<iMMix:DMGUID/>
+<iMMix:SOF/>
+<iMMix:publID>4618536</iMMix:publID>
+<iMMix:ExterneReferentie/>
+<iMMix:beginpositieopdrager/>
+<iMMix:eindpositieopdrager/>
+<iMMix:formaat>SD</iMMix:formaat>
+<iMMix:herkomst/>
+<iMMix:geluidstype/>
+<iMMix:metrage/>
+<iMMix:sortering/>
+<iMMix:locatie/>
+<iMMix:positieid>95181888</iMMix:positieid>
+<iMMix:TechnischeGegevens/>
+<iMMix:datum_aangemaakt>2014-01-28T21:52:21Z</iMMix:datum_aangemaakt>
+</iMMix:Positie>
+<iMMix:Positie>
+<iMMix:begintijd/>
+<iMMix:eindtijd/>
+<iMMix:annotatie/>
+<iMMix:beginopdrager>73518800</iMMix:beginopdrager>
+<iMMix:eindeopdrager>74738960</iMMix:eindeopdrager>
+<iMMix:volgnummer/>
+<iMMix:dragernummer>EN_OP_EN_____-WON01175562.mxf</iMMix:dragernummer>
+<iMMix:dragertype>MXF</iMMix:dragertype>
+<iMMix:archiefstatus/>
+<iMMix:depotstatus/>
+<iMMix:bewaarplaats>Digitaal Archief</iMMix:bewaarplaats>
+<iMMix:opbergeenheid/>
+<iMMix:dragerannotatie/>
+<iMMix:dragersoort>Programma</iMMix:dragersoort>
+<iMMix:dragerid>11862878</iMMix:dragerid>
+<iMMix:DMGUID/>
+<iMMix:SOF/>
+<iMMix:publID>4618536</iMMix:publID>
+<iMMix:ExterneReferentie/>
+<iMMix:beginpositieopdrager/>
+<iMMix:eindpositieopdrager/>
+<iMMix:formaat>SD</iMMix:formaat>
+<iMMix:herkomst/>
+<iMMix:geluidstype/>
+<iMMix:metrage/>
+<iMMix:sortering/>
+<iMMix:locatie/>
+<iMMix:positieid>95181889</iMMix:positieid>
+<iMMix:TechnischeGegevens/>
+<iMMix:datum_aangemaakt>2014-01-28T21:52:21Z</iMMix:datum_aangemaakt>
+</iMMix:Positie>
+<iMMix:Positie>
+<iMMix:begintijd/>
+<iMMix:eindtijd/>
+<iMMix:annotatie/>
+<iMMix:beginopdrager>73518800</iMMix:beginopdrager>
+<iMMix:eindeopdrager>74738960</iMMix:eindeopdrager>
+<iMMix:volgnummer/>
+<iMMix:dragernummer>2014-01-28-20,25-2_2014-01-28-20,25-2_KN_1655739.stl</iMMix:dragernummer>
+<iMMix:dragertype>stl</iMMix:dragertype>
+<iMMix:archiefstatus>uitgangsmateriaal</iMMix:archiefstatus>
+<iMMix:depotstatus>in depot</iMMix:depotstatus>
+<iMMix:bewaarplaats/>
+<iMMix:opbergeenheid/>
+<iMMix:dragerannotatie/>
+<iMMix:dragersoort>Programma</iMMix:dragersoort>
+<iMMix:dragerid>11862894</iMMix:dragerid>
+<iMMix:DMGUID/>
+<iMMix:SOF/>
+<iMMix:publID>4618536</iMMix:publID>
+<iMMix:ExterneReferentie/>
+<iMMix:beginpositieopdrager/>
+<iMMix:eindpositieopdrager/>
+<iMMix:formaat/>
+<iMMix:herkomst/>
+<iMMix:geluidstype/>
+<iMMix:metrage/>
+<iMMix:sortering/>
+<iMMix:locatie>Digitaal archief</iMMix:locatie>
+<iMMix:positieid>95181905</iMMix:positieid>
+<iMMix:TechnischeGegevens/>
+<iMMix:datum_aangemaakt>2014-01-28T22:15:57Z</iMMix:datum_aangemaakt>
+<iMMix:parent_dragerid>11862878</iMMix:parent_dragerid>
+</iMMix:Positie>
+</iMMix:Posities>
+</iMMix:doc>
+<iMMix:Niveaus>
+<iMMix:Niveau intentieID="1" taalID="1">
+<iMMix:samenvatting>In deze aflevering, gepresenteerd door Eva Jinek, is Roland Kahn te gast, kledingmagnaat en directeur van kledingketen CoolCat. Zijn reputatie is besmeurd door vermeende wantoestanden bij zijn Bengaalse kledingfabrieken: kinderarbeid, instortingsgevaar, lage lonen. Teven werd er in de media het beeld geschetst dat CoolCat het veiligheidsakkoord Bangladesh niet wilde ondertekenen, een convenant dat moet zorgen voor structurele verbeteringen op het gebied van veiligheid in de kledingfabrieken in Bangladesh.</iMMix:samenvatting>
+<iMMix:beschrijving>STUDIOGESPREK met Roland Kahn over:
+- het verkeerde beeld dat is ontstaan over hem en zijn bedrijven; zijn emotionele reactie in de rechtszaal tijdens een kort geding tegen het 'AD' dat eerder deze dag plaatsvond, omdat de krant de beschuldigingen van kinderarbeid aan zijn adres bagatelliseerden; het ministerie van Buitenlandse Zaken die de beschuldigingen aan zijn adres heeft herroepen;
+- de uitzending van het programma 'Rambam' (27 januari 2014) waarin hij Lilianne Ploumen, minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, een &quot;linkse kutminister&quot; noemt, en dat hij spijt heeft van die opmerking; de invoerrechtenvrije status van Bangladesh waardoor een explosie van (onveilige) kledingfabrieken ontstond; dat zijn bedrijf juist als een van de eerste Nederlandse bedrijven het convenant heeft ondertekend en dat de minister verkeerd was ingelicht; de rectificatie van minister Ploumen;
+- zijn eer en geweten om te strijden tegen onrecht, dus ook tegen het 'AD'; acht procent omzetdaling door deze media-aandacht; het faillissement en gezichtsverlies van zijn vader dat hem op 14-jarige leeftijd heeft gevormd en hem heeft gedreven om kleding voor kinderen te willen maken;
+- zijn samenwerking met zes fabrieken in Bangladesh en zijn bewering dat hij altijd een transparant bedrijf heeft; zijn gebrek aan tijd om die fabrieken te bezoeken, maar dat hij aanneemt dat alles in die fabrieken in orde is; zijn (ontwikkelings)samenwerking met bedrijven in Azië om hoogwaardige kleding te produceren; de zes eigen controleurs die de zes fabrieken in Bangladesh controleert; zijn keuze om te blijven werken in Bangladesh, ondanks de corruptie, voor een betere maatschappij;
+- de CoolCat Foundation die zich inzet voor achterstandssituaties voor kinderen, maar die onbekend is bij brancheverenigingen van goede doelen; enkele projecten die volgens Kahn wel door deze stichting worden gedaan;
+- dat hij zijn volgende leven wilt wijden aan vrouwen, want hij is gek op ze.</iMMix:beschrijving>
+<iMMix:annotatie/>
+<iMMix:taakID>4936133</iMMix:taakID>
+<iMMix:ontsluitingen>
+<iMMix:museumtitel/>
+<iMMix:genres/>
+<iMMix:doelgroepen/>
+<iMMix:themas/>
+<iMMix:trefwoorden>
+<iMMix:trefwoord volgnummer="9">imago</iMMix:trefwoord>
+<iMMix:trefwoord volgnummer="7">kinderarbeid</iMMix:trefwoord>
+<iMMix:trefwoord volgnummer="1">kleding</iMMix:trefwoord>
+<iMMix:trefwoord volgnummer="2">kledingindustrie</iMMix:trefwoord>
+<iMMix:trefwoord volgnummer="6">liefdadigheid</iMMix:trefwoord>
+<iMMix:trefwoord volgnummer="10">processen</iMMix:trefwoord>
+<iMMix:trefwoord volgnummer="3">textielindustrie</iMMix:trefwoord>
+<iMMix:trefwoord volgnummer="4">veiligheid</iMMix:trefwoord>
+<iMMix:trefwoord volgnummer="5">veiligheidsbeleid</iMMix:trefwoord>
+<iMMix:trefwoord volgnummer="8">vrouwen</iMMix:trefwoord>
+</iMMix:trefwoorden>
+<iMMix:vervallen_trefwoorden/>
+<iMMix:rvd_genres/>
+<iMMix:persoonsnamen>
+<iMMix:persoonsnaam>Ploumen, Lilianne</iMMix:persoonsnaam>
+</iMMix:persoonsnamen>
+<iMMix:geografische_namen>
+<iMMix:geografische_naam>Bangladesh</iMMix:geografische_naam>
+</iMMix:geografische_namen>
+<iMMix:namen>
+<iMMix:naam>Algemeen Dagblad</iMMix:naam>
+</iMMix:namen>
+<iMMix:muziekstijlen/>
+<iMMix:deelcatalogi/>
+<iMMix:links/>
+</iMMix:ontsluitingen>
+</iMMix:Niveau>
+</iMMix:Niveaus>
+<iMMix:transcriptie>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73519880" bron="TT" endtime="73522080" label="" volgnummer="0">
+<iMMix:wordsequence>888</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73522080" bron="TT" endtime="73524160" label="" volgnummer="1">
+<iMMix:wordsequence>Het is bijna vijf voor half negen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73524160" bron="TT" endtime="73526600" label="" volgnummer="2">
+<iMMix:wordsequence>Goedenavond! U kijkt live naar Een op Een.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73526600" bron="TT" endtime="73529320" label="" volgnummer="3">
+<iMMix:wordsequence>Meer dan 30 jaar bouwt hij aan zijn kledingimperium.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73529320" bron="TT" endtime="73532040" label="" volgnummer="4">
+<iMMix:wordsequence>Met succes: Hij schopt het tot de Quote 500.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73532040" bron="TT" endtime="73534360" label="" volgnummer="5">
+<iMMix:wordsequence>Maar nu is zijn reputatie besmeurd.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73534360" bron="TT" endtime="73538280" label="" volgnummer="6">
+<iMMix:wordsequence>Kinderarbeid, lage lonen en gevaarlijke omstandigheden.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73538280" bron="TT" endtime="73542120" label="" volgnummer="7">
+<iMMix:wordsequence>Wantoestanden bij zijn Bengaalse kledingfabrieken. Of niet?</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73542120" bron="TT" endtime="73546360" label="" volgnummer="8">
+<iMMix:wordsequence>Minister Ploumen wist hij al tot een rectificatie te dwingen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73546360" bron="TT" endtime="73551960" label="" volgnummer="9">
+<iMMix:wordsequence>Het AD sleepte hij vandaag voor de rechter. Hier is Roland Kahn.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73551960" bron="TT" endtime="73556200" label="" volgnummer="10">
+<iMMix:wordsequence>DIT PROGRAMMA IS LIVE. ONDERTITELING KAN ACHTERLOPEN. www.tt888.nl</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73556400" bron="TT" endtime="73558440" label="" volgnummer="11">
+<iMMix:wordsequence>Goedenavond.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73560360" bron="TT" endtime="73563840" label="" volgnummer="12">
+<iMMix:wordsequence>Roland Kahn is op oorlogspad. Zie ik dat goed?</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73563840" bron="TT" endtime="73567520" label="" volgnummer="13">
+<iMMix:wordsequence>Nee, ik verdedig mijn reputatie.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73567520" bron="TT" endtime="73570960" label="" volgnummer="14">
+<iMMix:wordsequence>En zesduizend medewerkers die heel hard werken aan een mooi bedrijf.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73570960" bron="TT" endtime="73575240" label="" volgnummer="15">
+<iMMix:wordsequence>Voelt het als oorlog?</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73575240" bron="TT" endtime="73580680" label="" volgnummer="16">
+<iMMix:wordsequence>Nee, de minister heeft mij gebeld.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73580680" bron="TT" endtime="73584120" label="" volgnummer="17">
+<iMMix:wordsequence>Zij heeft aangegeven hoe zij ermee zat.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73584120" bron="TT" endtime="73587360" label="" volgnummer="18">
+<iMMix:wordsequence>Dat vond ik een mooi gebaar.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73587360" bron="TT" endtime="73590120" label="" volgnummer="19">
+<iMMix:wordsequence>Er was een verkeerd beeld van de ontstaan?</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73590120" bron="TT" endtime="73592440" label="" volgnummer="20">
+<iMMix:wordsequence>Over mijn bedrijven, ja.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73593320" bron="TT" endtime="73599840" label="" volgnummer="21">
+<iMMix:wordsequence>In de rechtszaal was u geemotioneerd, vandaag.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73599840" bron="TT" endtime="73606400" label="" volgnummer="22">
+<iMMix:wordsequence>Hoe ziet dat eruit? Niet best.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73606400" bron="TT" endtime="73611040" label="" volgnummer="23">
+<iMMix:wordsequence>Ik vind dat ik niet veel over het proces kan zeggen...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73611040" bron="TT" endtime="73613600" label="" volgnummer="24">
+<iMMix:wordsequence>dat is nog onder de rechter.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73613600" bron="TT" endtime="73617520" label="" volgnummer="25">
+<iMMix:wordsequence>Maar ik was geemotioneerd over het feit...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73617520" bron="TT" endtime="73621680" label="" volgnummer="26">
+<iMMix:wordsequence>dat de advocaat van het AD bagatelliseerde...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73621680" bron="TT" endtime="73626600" label="" volgnummer="27">
+<iMMix:wordsequence>dat ik maar een keer was beschuldigd van kinderarbeid.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73626600" bron="TT" endtime="73630080" label="" volgnummer="28">
+<iMMix:wordsequence>Mijn 84 moeder was daar zeer van overstuur.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73630080" bron="TT" endtime="73633000" label="" volgnummer="29">
+<iMMix:wordsequence>Dat kleine kindjes mijn kleding zouden maken.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73633000" bron="TT" endtime="73636840" label="" volgnummer="30">
+<iMMix:wordsequence>Ik heb haar gerustgesteld.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73636840" bron="TT" endtime="73643320" label="" volgnummer="31">
+<iMMix:wordsequence>Maar het feit dat dat soort dingen zonder enige vorm van controle of bewijs...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73643320" bron="TT" endtime="73651760" label="" volgnummer="32">
+<iMMix:wordsequence>kunnen worden gezegd door wat ooit een vooraanstaand blad was, heeft mij erg geraakt</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73651760" bron="TT" endtime="73655800" label="" volgnummer="33">
+<iMMix:wordsequence>Zijn er dan ook tranen bij? Jazeker.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73655800" bron="TT" endtime="73658400" label="" volgnummer="34">
+<iMMix:wordsequence>Het draait allemaal om een artikel van het AD...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73658400" bron="TT" endtime="73660320" label="" volgnummer="35">
+<iMMix:wordsequence>waarin minister Ploumen wordt opgevoerd.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73660320" bron="TT" endtime="73663560" label="" volgnummer="36">
+<iMMix:wordsequence>De indruk wordt gewekt dat u op een zwarte lijst staat...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73663560" bron="TT" endtime="73668120" label="" volgnummer="37">
+<iMMix:wordsequence>van bedrijven die werken met fabrieken in Bangladesh...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73668120" bron="TT" endtime="73672040" label="" volgnummer="38">
+<iMMix:wordsequence>waar sprake is van kinderarbeid, instortingsgevaar en lage lonen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73672040" bron="TT" endtime="73675280" label="" volgnummer="39">
+<iMMix:wordsequence>Dat beeld klopt in zijn geheel niet?</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73675280" bron="TT" endtime="73678040" label="" volgnummer="40">
+<iMMix:wordsequence>Nee, alles wordt door elkaar gehaald.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73678040" bron="TT" endtime="73685720" label="" volgnummer="41">
+<iMMix:wordsequence>Dat heeft minister Ploumen ook herroepen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73685720" bron="TT" endtime="73690360" label="" volgnummer="42">
+<iMMix:wordsequence>Hoezeer bent die beschadigd? Ik ben niet zozeer beschadigd.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73690360" bron="TT" endtime="73693040" label="" volgnummer="43">
+<iMMix:wordsequence>Maar wel erg teleurgesteld.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73693040" bron="TT" endtime="73696920" label="" volgnummer="44">
+<iMMix:wordsequence>Het lijkt wel een verhaal van Kafka.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73696920" bron="TT" endtime="73699320" label="" volgnummer="45">
+<iMMix:wordsequence>Het is ongelooflijk hoe weinig research...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73699320" bron="TT" endtime="73702480" label="" volgnummer="46">
+<iMMix:wordsequence>wordt gedaan door de Nederlandse pers.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73702480" bron="TT" endtime="73705080" label="" volgnummer="47">
+<iMMix:wordsequence>Je geloof niet dat het kan gebeuren...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73705080" bron="TT" endtime="73707960" label="" volgnummer="48">
+<iMMix:wordsequence>tot het jezelf overkomt.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73707960" bron="TT" endtime="73721040" label="" volgnummer="49">
+<iMMix:wordsequence>Gisteren, in het programma Ram Bam noemde minister noemde u minister Ploumen een kutminister.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73721040" bron="TT" endtime="73726400" label="" volgnummer="50">
+<iMMix:wordsequence>Ik heb spijt van die uitspraak.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73726400" bron="TT" endtime="73732920" label="" volgnummer="51">
+<iMMix:wordsequence>Het leek uit het hart te komen. De minister is misleid.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73732920" bron="TT" endtime="73739760" label="" volgnummer="52">
+<iMMix:wordsequence>Vermoedelijk is ze op het verkeerde been gezet.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73739760" bron="TT" endtime="73744160" label="" volgnummer="53">
+<iMMix:wordsequence>Schone kleren had veel moeite om bedrijven te krijgen...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73744160" bron="TT" endtime="73747160" label="" volgnummer="54">
+<iMMix:wordsequence>die dat contract wilden tekenen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73747160" bron="TT" endtime="73757600" label="" volgnummer="55">
+<iMMix:wordsequence>Het convenant waarbij allerlei modegiganten zich zouden moeten aansluiten.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73757600" bron="TT" endtime="73768120" label="" volgnummer="56">
+<iMMix:wordsequence>De kern was: de minister heeft ons als een breekijzer gebruikt.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73768120" bron="TT" endtime="73774520" label="" volgnummer="57">
+<iMMix:wordsequence>U aarzelde om dat convenant ondertekenen?Nee, dat niet.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73774520" bron="TT" endtime="73776840" label="" volgnummer="58">
+<iMMix:wordsequence>Even terug in de historie.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73776840" bron="TT" endtime="73781160" label="" volgnummer="59">
+<iMMix:wordsequence>Dat maakt het misschien duidelijk voor de kijker.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73781160" bron="TT" endtime="73786000" label="" volgnummer="60">
+<iMMix:wordsequence>De internationale gemeenschap heeft Bangladesh...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73786000" bron="TT" endtime="73794920" label="" volgnummer="61">
+<iMMix:wordsequence>en invoerrechten de vrije status gegeven.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73794920" bron="TT" endtime="73797880" label="" volgnummer="62">
+<iMMix:wordsequence>Een t-shirt dat wordt geproduceerd in Bangladesh...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73797880" bron="TT" endtime="73800080" label="" volgnummer="63">
+<iMMix:wordsequence>kost 13% invoerrechten.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73800080" bron="TT" endtime="73809280" label="" volgnummer="64">
+<iMMix:wordsequence>Maar als ik het daar koopt, betaal ik die invoerrechten niet.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73809280" bron="TT" endtime="73812640" label="" volgnummer="65">
+<iMMix:wordsequence>Dus iedereen wil daar fabriceren.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73812640" bron="TT" endtime="73815200" label="" volgnummer="66">
+<iMMix:wordsequence>Er is dus een hausse aan productie ontstaan.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73815200" bron="TT" endtime="73819880" label="" volgnummer="67">
+<iMMix:wordsequence>Met name door de grote internationale bedrijven.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73819880" bron="TT" endtime="73827800" label="" volgnummer="68">
+<iMMix:wordsequence>Daar wordt immens geconsumeerd, bijvoorbeeld in Amerika en Canada.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73827800" bron="TT" endtime="73833520" label="" volgnummer="69">
+<iMMix:wordsequence>In een enorm tempo zijn daar zesduizend fabrieken uit de grond gestampt.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73833520" bron="TT" endtime="73837160" label="" volgnummer="70">
+<iMMix:wordsequence>En dat gebeurde niet onder de beste omstandigheden.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73837160" bron="TT" endtime="73845120" label="" volgnummer="71">
+<iMMix:wordsequence>En dan druk ik me zacht uit. Vorig jaar stortte een fabriek in.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73845120" bron="TT" endtime="73849640" label="" volgnummer="72">
+<iMMix:wordsequence>Dat is rampzalig maar dat was pure criminaliteit.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73849640" bron="TT" endtime="73852160" label="" volgnummer="73">
+<iMMix:wordsequence>De corrupte politicus die daarbij betrokken was...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73852160" bron="TT" endtime="73854680" label="" volgnummer="74">
+<iMMix:wordsequence>zit nu in de gevangenis.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73854680" bron="TT" endtime="73858240" label="" volgnummer="75">
+<iMMix:wordsequence>De productie van een fabriek moest worden opgevoerd...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73858240" bron="TT" endtime="73864880" label="" volgnummer="76">
+<iMMix:wordsequence>onder druk van Engelse en Amerikaanse klanten.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73864880" bron="TT" endtime="73867320" label="" volgnummer="77">
+<iMMix:wordsequence>Dat pand was afgekeurd.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73867320" bron="TT" endtime="73871800" label="" volgnummer="78">
+<iMMix:wordsequence>Toch heeft die man mensen omgekocht om dat door te laten gaan.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73871800" bron="TT" endtime="73875320" label="" volgnummer="79">
+<iMMix:wordsequence>Hoe kun je je daartegen wapenen...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73875320" bron="TT" endtime="73881560" label="" volgnummer="80">
+<iMMix:wordsequence>als de corruptie van de overheid komt.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73881560" bron="TT" endtime="73883920" label="" volgnummer="81">
+<iMMix:wordsequence>Om dat te voorkomen, zegt de minister...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73883920" bron="TT" endtime="73886800" label="" volgnummer="82">
+<iMMix:wordsequence>laten we met z'n allen een convenant ondertekenen...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73886800" bron="TT" endtime="73891120" label="" volgnummer="83">
+<iMMix:wordsequence>om te strijden voor betere omstandigheden.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73891120" bron="TT" endtime="73895280" label="" volgnummer="84">
+<iMMix:wordsequence>U was een van de laatsten die de convenant wilde ondertekenen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73895280" bron="TT" endtime="73899880" label="" volgnummer="85">
+<iMMix:wordsequence>De feiten zijn compleet onjuist.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73899880" bron="TT" endtime="73903880" label="" volgnummer="86">
+<iMMix:wordsequence>Wij hebben het convenant als een van de eersten ondertekend.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73903880" bron="TT" endtime="73909800" label="" volgnummer="87">
+<iMMix:wordsequence>Dat kunnen bewijzen. Nu hebben 168 bedrijven het ondertekend.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73909800" bron="TT" endtime="73914160" label="" volgnummer="88">
+<iMMix:wordsequence>De eerste druk is niet van minister Ploumen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73914160" bron="TT" endtime="73921000" label="" volgnummer="89">
+<iMMix:wordsequence>Maar van de Amerikaanse en Canadese consumenten.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73921000" bron="TT" endtime="73925080" label="" volgnummer="90">
+<iMMix:wordsequence>Vanuit de branche zelf? Jazeker.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73925080" bron="TT" endtime="73930920" label="" volgnummer="91">
+<iMMix:wordsequence>De Canadese en Amerikaanse vakbonden hebben samen met de grote concerns...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73930920" bron="TT" endtime="73937880" label="" volgnummer="92">
+<iMMix:wordsequence>zoals de Bijenkorf, dat is onderdeel van een Amerikaans concern...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73937880" bron="TT" endtime="73946680" label="" volgnummer="93">
+<iMMix:wordsequence>Dus dat soort bedrijven hebben als eerste getekend.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73946680" bron="TT" endtime="73950040" label="" volgnummer="94">
+<iMMix:wordsequence>Wij hoorden tot de eerste 10 Nederlandse bedrijven die tekenen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73950040" bron="TT" endtime="73954640" label="" volgnummer="95">
+<iMMix:wordsequence>Waarom riep de minister u dan ook om te tekenen?</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73954640" bron="TT" endtime="73958760" label="" volgnummer="96">
+<iMMix:wordsequence>Zij heeft zich door schone kleren voor haar karretje laten spannen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73958760" bron="TT" endtime="73963720" label="" volgnummer="97">
+<iMMix:wordsequence>U had al getekend?</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73963720" bron="TT" endtime="73969200" label="" volgnummer="98">
+<iMMix:wordsequence>Nee, maar dat geldt voor de meeste Nederlandse bedrijven.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73969200" bron="TT" endtime="73972960" label="" volgnummer="99">
+<iMMix:wordsequence>Kijk maar bij de douane hoeveel bedrijven in Nederland...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73972960" bron="TT" endtime="73977880" label="" volgnummer="100">
+<iMMix:wordsequence>uit Bangladesh importeren, is dat misschien al 95%.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73977880" bron="TT" endtime="73983320" label="" volgnummer="101">
+<iMMix:wordsequence>Zij hebben dat contract niet ondertekend.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73983320" bron="TT" endtime="73991080" label="" volgnummer="102">
+<iMMix:wordsequence>Wij wel, toen het geschikt was voor het type bedrijf van onze omvang.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="73991080" bron="TT" endtime="74000120" label="" volgnummer="103">
+<iMMix:wordsequence>Dus dat de minister dat beweerde in de pers was volkomen onterecht?</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74000120" bron="TT" endtime="74002880" label="" volgnummer="104">
+<iMMix:wordsequence>Ja, dat zegt hij nu zelf ook.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74002880" bron="TT" endtime="74007000" label="" volgnummer="105">
+<iMMix:wordsequence>In een samenleving moeten het met elkaar doen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74007000" bron="TT" endtime="74012120" label="" volgnummer="106">
+<iMMix:wordsequence>Alleen als je dingen samen doet, bouw je iets moois.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74012120" bron="TT" endtime="74018880" label="" volgnummer="107">
+<iMMix:wordsequence>Maar de minister heeft op geen enkel moment contact opgenomen met ons bedrijf.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74018880" bron="TT" endtime="74022960" label="" volgnummer="108">
+<iMMix:wordsequence>Evenmin met de branchevereniging.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74022960" bron="TT" endtime="74027240" label="" volgnummer="109">
+<iMMix:wordsequence>Volgens de media wilde ze dat u het zou ondertekenen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74027240" bron="TT" endtime="74032000" label="" volgnummer="110">
+<iMMix:wordsequence>Maar dat contract was toen nog niet te ondertekenen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74032000" bron="TT" endtime="74035480" label="" volgnummer="111">
+<iMMix:wordsequence>De leider van de commissie van het contract...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74035480" bron="TT" endtime="74043120" label="" volgnummer="112">
+<iMMix:wordsequence>heeft onze gevraagd nog even te wachten met tekenen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74043120" bron="TT" endtime="74049080" label="" volgnummer="113">
+<iMMix:wordsequence>We zijn bezig geweest met de grote brancheorganisatie...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74049080" bron="TT" endtime="74052600" label="" volgnummer="114">
+<iMMix:wordsequence>Het was een grote misvatting van de minister?</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74052600" bron="TT" endtime="74056160" label="" volgnummer="115">
+<iMMix:wordsequence>En dat geeft ze toe? Absoluut.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74056160" bron="TT" endtime="74061240" label="" volgnummer="116">
+<iMMix:wordsequence>Hoe kreeg u haar zo ver om te ratificeren?</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74061240" bron="TT" endtime="74066280" label="" volgnummer="117">
+<iMMix:wordsequence>Dat deed ze op de website van haar ministerie.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74066280" bron="TT" endtime="74070560" label="" volgnummer="118">
+<iMMix:wordsequence>Door goed overleg.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74070560" bron="TT" endtime="74074720" label="" volgnummer="119">
+<iMMix:wordsequence>U wil dat het AD rectificeert.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74074720" bron="TT" endtime="74080320" label="" volgnummer="120">
+<iMMix:wordsequence>Was de verklaring van de minister niet genoeg?</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74080320" bron="TT" endtime="74083960" label="" volgnummer="121">
+<iMMix:wordsequence>Als onrecht wordt aangedaan, wil jij dat het wordt rechtgezet.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74083960" bron="TT" endtime="74088160" label="" volgnummer="122">
+<iMMix:wordsequence>Het is makkelijk om mensen van allerlei dingen te beschuldigen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74088160" bron="TT" endtime="74094880" label="" volgnummer="123">
+<iMMix:wordsequence>Maar als je iets verkeerd doet, moet je dat toegeven.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74094880" bron="TT" endtime="74099280" label="" volgnummer="124">
+<iMMix:wordsequence>Ik vind dat een grote krant als het AD...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74099280" bron="TT" endtime="74103760" label="" volgnummer="125">
+<iMMix:wordsequence>aan zijn lezers hoort te vertellen dat ze fout zaten.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74103760" bron="TT" endtime="74107400" label="" volgnummer="126">
+<iMMix:wordsequence>Zolang er nog een Nederlander is die denkt dat Coolcat...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74107400" bron="TT" endtime="74111360" label="" volgnummer="127">
+<iMMix:wordsequence>niet naar de eer en geweten gehandeld, blijven we strijden.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74111360" bron="TT" endtime="74114440" label="" volgnummer="128">
+<iMMix:wordsequence>Hebben jullie een T-shirt minder verkocht?</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74114440" bron="TT" endtime="74121600" label="" volgnummer="129">
+<iMMix:wordsequence>In de eerste week hadden we 8% omzetdaling.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74121600" bron="TT" endtime="74124800" label="" volgnummer="130">
+<iMMix:wordsequence>Het leek het beste jaar aller tijden te worden.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74124800" bron="TT" endtime="74130120" label="" volgnummer="131">
+<iMMix:wordsequence>Wat voor bedrag is dat? Dat is voor mij niet relevant.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74130120" bron="TT" endtime="74134760" label="" volgnummer="132">
+<iMMix:wordsequence>Maar voor mijn begrip? Het is heel veel geld.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74134760" bron="TT" endtime="74137120" label="" volgnummer="133">
+<iMMix:wordsequence>Het gaat om tonnen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74137120" bron="TT" endtime="74140760" label="" volgnummer="134">
+<iMMix:wordsequence>Uw vader ging failliet toen 14 jaar oud was.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74140760" bron="TT" endtime="74147040" label="" volgnummer="135">
+<iMMix:wordsequence>U heeft verklaard dat dat uw gevormd heeft.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74147040" bron="TT" endtime="74151240" label="" volgnummer="136">
+<iMMix:wordsequence>Hoe heeft dat uw leven beinvloed? Wat een mooie vraag.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74151240" bron="TT" endtime="74157480" label="" volgnummer="137">
+<iMMix:wordsequence>Het heeft de enorme kracht gegeven. Ik zat op de middelbare school.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74157480" bron="TT" endtime="74160200" label="" volgnummer="138">
+<iMMix:wordsequence>Een nogal elitaire middelbare school.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74160200" bron="TT" endtime="74164760" label="" volgnummer="139">
+<iMMix:wordsequence>Ik kom uit een goed joods middenstand milieu.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74164760" bron="TT" endtime="74169520" label="" volgnummer="140">
+<iMMix:wordsequence>Wij hadden het heel goed. Wij hadden alles.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74169520" bron="TT" endtime="74174040" label="" volgnummer="141">
+<iMMix:wordsequence>Van de ene op de andere dag was er geen geld meer.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74174040" bron="TT" endtime="74177640" label="" volgnummer="142">
+<iMMix:wordsequence>Dat vormde mijn droom dat ik een merk wilde bouwen...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74177640" bron="TT" endtime="74184640" label="" volgnummer="143">
+<iMMix:wordsequence>een kledingmerk, toen ik 15 was...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74184640" bron="TT" endtime="74187880" label="" volgnummer="144">
+<iMMix:wordsequence>Ik werkte net in een kleine winkel op de nieuwe dijk.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74187880" bron="TT" endtime="74192800" label="" volgnummer="145">
+<iMMix:wordsequence>Als hulp in de verkoop. Daar had ik talent voor.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74192800" bron="TT" endtime="74196440" label="" volgnummer="146">
+<iMMix:wordsequence>Ik wilde een kledingmerk maken waar alle kinderen...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74196440" bron="TT" endtime="74199240" label="" volgnummer="147">
+<iMMix:wordsequence>op de lagere en middelbare school er leuk uitzagen...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74199240" bron="TT" endtime="74203960" label="" volgnummer="148">
+<iMMix:wordsequence>ongeacht de financiele situatie van hun ouders.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74203960" bron="TT" endtime="74208080" label="" volgnummer="149">
+<iMMix:wordsequence>Dat ze zich niet hoeven te schamen? Dat ze mee konden doen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74208080" bron="TT" endtime="74212320" label="" volgnummer="150">
+<iMMix:wordsequence>Want dat kon u toen niet meer?</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74212320" bron="TT" endtime="74220640" label="" volgnummer="151">
+<iMMix:wordsequence>Zo voelde ik me wel, ja. Er is veel sociale druk.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74220640" bron="TT" endtime="74224680" label="" volgnummer="152">
+<iMMix:wordsequence>Voelen deze aantijgingen als gezichtsverlies.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74224680" bron="TT" endtime="74229640" label="" volgnummer="153">
+<iMMix:wordsequence>Zoals dat van uw vader? Is dat dezelfde emotie?</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74229640" bron="TT" endtime="74234320" label="" volgnummer="154">
+<iMMix:wordsequence>Nee, het voelt als onrecht.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74234320" bron="TT" endtime="74239200" label="" volgnummer="155">
+<iMMix:wordsequence>Als ik de advocaat van het AD hoor beweren...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74239200" bron="TT" endtime="74242960" label="" volgnummer="156">
+<iMMix:wordsequence>dat ze het eigenlijk niet geweten hebben...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74242960" bron="TT" endtime="74248800" label="" volgnummer="157">
+<iMMix:wordsequence>en dat het allemaal aan de wispelturige minister lag...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74248800" bron="TT" endtime="74255800" label="" volgnummer="158">
+<iMMix:wordsequence>begrijp ik niet dat de journalist zijn verantwoordelijkheid niet neemt.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74255800" bron="TT" endtime="74261520" label="" volgnummer="159">
+<iMMix:wordsequence>Dat was heel emotioneel om te zien.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74261520" bron="TT" endtime="74265960" label="" volgnummer="160">
+<iMMix:wordsequence>Onze grote bladen zijn kennelijk niet meer te vertrouwen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74265960" bron="TT" endtime="74270480" label="" volgnummer="161">
+<iMMix:wordsequence>Even naar de fabrieken in Bangladesh.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74270480" bron="TT" endtime="74272960" label="" volgnummer="162">
+<iMMix:wordsequence>En de beeldvorming daaromheen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74272960" bron="TT" endtime="74275800" label="" volgnummer="163">
+<iMMix:wordsequence>U werkte samen met zes fabrieken daar.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74275800" bron="TT" endtime="74278520" label="" volgnummer="164">
+<iMMix:wordsequence>Coolcat werkte daarmee samen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74278520" bron="TT" endtime="74283560" label="" volgnummer="165">
+<iMMix:wordsequence>Welke zes zijn dat? Dat kan ik zo niet zeggen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74283560" bron="TT" endtime="74287040" label="" volgnummer="166">
+<iMMix:wordsequence>U had dat me van tevoren moeten vragen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74287040" bron="TT" endtime="74290360" label="" volgnummer="167">
+<iMMix:wordsequence>Maar mogen wel weten welke fabrieken met zijn?</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74290360" bron="TT" endtime="74296800" label="" volgnummer="168">
+<iMMix:wordsequence>Natuurlijk, u mag alles weten.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74296800" bron="TT" endtime="74300400" label="" volgnummer="169">
+<iMMix:wordsequence>Voorheen wilde u dat niet prijsgeven.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74300400" bron="TT" endtime="74303960" label="" volgnummer="170">
+<iMMix:wordsequence>Dat is niet waar, hoe komt u daarbij?</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74303960" bron="TT" endtime="74306800" label="" volgnummer="171">
+<iMMix:wordsequence>U wilde nergens vertellen welke zes dat waren.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74306800" bron="TT" endtime="74310160" label="" volgnummer="172">
+<iMMix:wordsequence>Dat is niet waar, die vraag is nooit gesteld.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74310160" bron="TT" endtime="74313320" label="" volgnummer="173">
+<iMMix:wordsequence>Wij betrachten complete openheid.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74313320" bron="TT" endtime="74318520" label="" volgnummer="174">
+<iMMix:wordsequence>Maar als ondernemer bouw je met een aantal bedrijven een goede relatie op.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74318520" bron="TT" endtime="74324920" label="" volgnummer="175">
+<iMMix:wordsequence>Dat ga je niet aan de concurrenten vertellen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74324920" bron="TT" endtime="74327760" label="" volgnummer="176">
+<iMMix:wordsequence>Dus u wilt niet dat het bij de concurrentie terechtkomt?</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74327760" bron="TT" endtime="74331560" label="" volgnummer="177">
+<iMMix:wordsequence>U heeft het mij nooit gevraagd. Dat doe ik nu.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74331560" bron="TT" endtime="74336240" label="" volgnummer="178">
+<iMMix:wordsequence>Als u een geheimhoudingsclausule tekent, kunt u ze krijgen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74336240" bron="TT" endtime="74347560" label="" volgnummer="179">
+<iMMix:wordsequence>Ok, daar hou ik u aan. Komt u wel eens in die fabrieken?</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74347560" bron="TT" endtime="74360960" label="" volgnummer="180">
+<iMMix:wordsequence>Zelf ben ik er al lang niet meer geweest.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74360960" bron="TT" endtime="74367240" label="" volgnummer="181">
+<iMMix:wordsequence>U kunt niet al die fabrieken afgaan?Dat is mijn taak niet meer.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74367240" bron="TT" endtime="74374280" label="" volgnummer="182">
+<iMMix:wordsequence>Deugt alles in die fabrieken? Dat is een gewetensvraag.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74374280" bron="TT" endtime="74376800" label="" volgnummer="183">
+<iMMix:wordsequence>Voorzover wij denken, wel.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74376800" bron="TT" endtime="74380440" label="" volgnummer="184">
+<iMMix:wordsequence>Waarom is dat een gewetensvraag?</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74380440" bron="TT" endtime="74384040" label="" volgnummer="185">
+<iMMix:wordsequence>Het is een pragmatische vraag. U kunt een checklist afgaan.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74384040" bron="TT" endtime="74388640" label="" volgnummer="186">
+<iMMix:wordsequence>Ik ben er niet iedere dag. Vroeger kwam ik in fabrieken in India.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74388640" bron="TT" endtime="74392760" label="" volgnummer="187">
+<iMMix:wordsequence>Er stonden voor de nooduitgang allerlei dozen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74392760" bron="TT" endtime="74400960" label="" volgnummer="188">
+<iMMix:wordsequence>Dan zei ik tegen de fabrikant: wat gebeurt er als een brand is?</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74400960" bron="TT" endtime="74405480" label="" volgnummer="189">
+<iMMix:wordsequence>Dan zei hij: We halen snel de dozen weg!</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74405480" bron="TT" endtime="74410480" label="" volgnummer="190">
+<iMMix:wordsequence>Maar drie weken later stonden die dozen er weer.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74410480" bron="TT" endtime="74416040" label="" volgnummer="191">
+<iMMix:wordsequence>Het is haast onbegonnen werk om mensen die zich niet aan de regels willen houden...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74416040" bron="TT" endtime="74418880" label="" volgnummer="192">
+<iMMix:wordsequence>te dwingen dat wel te doen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74418880" bron="TT" endtime="74423560" label="" volgnummer="193">
+<iMMix:wordsequence>In Nederland houden de meeste mensen zich ook niet aan de snelheid.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74423560" bron="TT" endtime="74427960" label="" volgnummer="194">
+<iMMix:wordsequence>Het is onbegonnen werk om dat te controleren.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74427960" bron="TT" endtime="74434760" label="" volgnummer="195">
+<iMMix:wordsequence>Na eer en geweten voor zover bij het kunnen kunnen controleren...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74434760" bron="TT" endtime="74438080" label="" volgnummer="196">
+<iMMix:wordsequence>Wij doen ook niet mee aan de race to the bottom.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74438080" bron="TT" endtime="74441400" label="" volgnummer="197">
+<iMMix:wordsequence>Coolcat maakt hoogwaardige producten.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74441400" bron="TT" endtime="74447600" label="" volgnummer="198">
+<iMMix:wordsequence>Dat is een soort ontwikkelingssamenwerking.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74447600" bron="TT" endtime="74453200" label="" volgnummer="199">
+<iMMix:wordsequence>Wij werken vanaf 1986 in Azie. We komen met een T-shirt in India.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74453200" bron="TT" endtime="74456360" label="" volgnummer="200">
+<iMMix:wordsequence>Ik vraag een fabrikant om dat te maken.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74456360" bron="TT" endtime="74460520" label="" volgnummer="201">
+<iMMix:wordsequence>En hij zegt dat hij dat gaat proberen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74460520" bron="TT" endtime="74465400" label="" volgnummer="202">
+<iMMix:wordsequence>Dan komt hij met het T-shirt naar Nederland.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74465400" bron="TT" endtime="74468680" label="" volgnummer="203">
+<iMMix:wordsequence>En dan vraagt hij of ik hem kan helpen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74468680" bron="TT" endtime="74474080" label="" volgnummer="204">
+<iMMix:wordsequence>Want ze hebben een andere verffabriek nodig.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74474080" bron="TT" endtime="74478440" label="" volgnummer="205">
+<iMMix:wordsequence>Hij koopt een tweedehands verffabriek in Italie.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74478440" bron="TT" endtime="74483240" label="" volgnummer="206">
+<iMMix:wordsequence>Bij hem werken 17.000 mensen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74483240" bron="TT" endtime="74485080" label="" volgnummer="207">
+<iMMix:wordsequence>Hij maakt het voor de top van de wereld.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74485080" bron="TT" endtime="74487800" label="" volgnummer="208">
+<iMMix:wordsequence>Het is ook samenwerken om met elkaar...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74487800" bron="TT" endtime="74492240" label="" volgnummer="209">
+<iMMix:wordsequence>En dat is de enige manier om...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74492240" bron="TT" endtime="74496160" label="" volgnummer="210">
+<iMMix:wordsequence>Dat is mooi ontwikkelingssamenwerking.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74496160" bron="TT" endtime="74499440" label="" volgnummer="211">
+<iMMix:wordsequence>Maar wie controleert die fabrieken?</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74499440" bron="TT" endtime="74503240" label="" volgnummer="212">
+<iMMix:wordsequence>Dat doen onze eigen mensen. En in Bangladesh?</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74503240" bron="TT" endtime="74508240" label="" volgnummer="213">
+<iMMix:wordsequence>Daar hebben bij zes controleurs. Voor zes fabrieken.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74508240" bron="TT" endtime="74514280" label="" volgnummer="214">
+<iMMix:wordsequence>Dus als iemand een klacht heeft, moet hij klagen bij iemand die bij hun dienst is.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74514280" bron="TT" endtime="74516920" label="" volgnummer="215">
+<iMMix:wordsequence>Dat doe ik niet zo snel.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74516920" bron="TT" endtime="74525280" label="" volgnummer="216">
+<iMMix:wordsequence>Daarom is het contract, waarbij de medewerkers...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74525280" bron="TT" endtime="74529440" label="" volgnummer="217">
+<iMMix:wordsequence>via een vakbond een stem hebben, een prima initiatief.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74529440" bron="TT" endtime="74534520" label="" volgnummer="218">
+<iMMix:wordsequence>Dus dat er onafhankelijke controleurs zijn.Ja.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74534520" bron="TT" endtime="74538360" label="" volgnummer="219">
+<iMMix:wordsequence>Maar wat gebeurt er als de mensen die klagen...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74538360" bron="TT" endtime="74541360" label="" volgnummer="220">
+<iMMix:wordsequence>in een land dat zo corrupt is.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74541360" bron="TT" endtime="74551480" label="" volgnummer="221">
+<iMMix:wordsequence>Als het allemaal zo is, wilt u daar dan wel werken?</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74551480" bron="TT" endtime="74558720" label="" volgnummer="222">
+<iMMix:wordsequence>In China stoppen ze mensen in de gevangenis.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74558720" bron="TT" endtime="74561400" label="" volgnummer="223">
+<iMMix:wordsequence>In Afrika... overal zijn er problemen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74561400" bron="TT" endtime="74564080" label="" volgnummer="224">
+<iMMix:wordsequence>Maar Bangladesh is extreem.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74564080" bron="TT" endtime="74566600" label="" volgnummer="225">
+<iMMix:wordsequence>Niet extremer dan veel andere gevallen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74566600" bron="TT" endtime="74570120" label="" volgnummer="226">
+<iMMix:wordsequence>Maar waarom kunt niet zeggen: Ik wil daar niet werken.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74570120" bron="TT" endtime="74574160" label="" volgnummer="227">
+<iMMix:wordsequence>Omdat door daar wel te zijn, we een betere maatschappij kunnen bouwen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74574160" bron="TT" endtime="74578320" label="" volgnummer="228">
+<iMMix:wordsequence>Ook de minister wil niet dat wij daar weg gaan.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74578320" bron="TT" endtime="74581000" label="" volgnummer="229">
+<iMMix:wordsequence>Maar dat we met zijn allen samenwerken.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74581000" bron="TT" endtime="74583680" label="" volgnummer="230">
+<iMMix:wordsequence>Om er een betere maatschappij van te maken.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74583680" bron="TT" endtime="74587800" label="" volgnummer="231">
+<iMMix:wordsequence>Nog niet zo lang geleden was er in Europa ook kinderarbeid.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74587800" bron="TT" endtime="74591240" label="" volgnummer="232">
+<iMMix:wordsequence>Nederland deed aan slavenhandel. Het heeft tijd nodig.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74591240" bron="TT" endtime="74598400" label="" volgnummer="233">
+<iMMix:wordsequence>Die tijd moeten we elkaar kunnen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74598400" bron="TT" endtime="74602600" label="" volgnummer="234">
+<iMMix:wordsequence>U doet dus veel voor de samenleving in Bangladesh.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74602600" bron="TT" endtime="74606960" label="" volgnummer="235">
+<iMMix:wordsequence>Nu heeft al een aantal jaar de Coolcat Foundation.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74606960" bron="TT" endtime="74615000" label="" volgnummer="236">
+<iMMix:wordsequence>Steun gaat naar afgebakende projecten.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74615000" bron="TT" endtime="74620440" label="" volgnummer="237">
+<iMMix:wordsequence>Het gaat vooral om de ontwikkeling van kansarme kinderen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74620440" bron="TT" endtime="74624360" label="" volgnummer="238">
+<iMMix:wordsequence>Waar hebben het over?Dingen die met kinderen te maken hebben.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74624360" bron="TT" endtime="74627200" label="" volgnummer="239">
+<iMMix:wordsequence>Kunt u specifieke projecten noemen?</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74627200" bron="TT" endtime="74631040" label="" volgnummer="240">
+<iMMix:wordsequence>We hebben geinformeerd bij een aantal organisaties...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74631040" bron="TT" endtime="74635840" label="" volgnummer="241">
+<iMMix:wordsequence>en die kennen uw foundation niet.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74635840" bron="TT" endtime="74640240" label="" volgnummer="242">
+<iMMix:wordsequence>Ik ben graag bereid om daar complete inzicht van zaken te geven.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74640240" bron="TT" endtime="74647600" label="" volgnummer="243">
+<iMMix:wordsequence>Wij hebben een zeer vooraanstaande voorzitter van de Foundation.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74647600" bron="TT" endtime="74654360" label="" volgnummer="244">
+<iMMix:wordsequence>Kun u projecten noemen?Bijvoorbeeld een project in Afrika, Tanzania.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74654360" bron="TT" endtime="74657640" label="" volgnummer="245">
+<iMMix:wordsequence>Hoeveel geld geeft u daaraan? Dat weet ik niet.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74657640" bron="TT" endtime="74660480" label="" volgnummer="246">
+<iMMix:wordsequence>Dat is niet in Bangladesh.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74660480" bron="TT" endtime="74665800" label="" volgnummer="247">
+<iMMix:wordsequence>Daar hebben een groot project met waterputten.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74665800" bron="TT" endtime="74668840" label="" volgnummer="248">
+<iMMix:wordsequence>De meneer van dat project stuurde ons een brief...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74668840" bron="TT" endtime="74671480" label="" volgnummer="249">
+<iMMix:wordsequence>om ons te steunen in dit verhaal.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74671480" bron="TT" endtime="74677800" label="" volgnummer="250">
+<iMMix:wordsequence>Onze stichting bestaat nog niet zo lang.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74677800" bron="TT" endtime="74680520" label="" volgnummer="251">
+<iMMix:wordsequence>Dat moet zich nog ontwikkelen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74680520" bron="TT" endtime="74684520" label="" volgnummer="252">
+<iMMix:wordsequence>Om welke bedragen gaat het die in de foundation omgaan?</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74684520" bron="TT" endtime="74686920" label="" volgnummer="253">
+<iMMix:wordsequence>Ik vind het vervelend om over bedragen te praten.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74686920" bron="TT" endtime="74689360" label="" volgnummer="254">
+<iMMix:wordsequence>Maar het zijn aanzienlijke bedragen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74689360" bron="TT" endtime="74692560" label="" volgnummer="255">
+<iMMix:wordsequence>Dat kunnen wel allemaal teruglezen? Ja, dat het openbaar.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74692560" bron="TT" endtime="74702560" label="" volgnummer="256">
+<iMMix:wordsequence>Dat mag ik op de site publiceren? Jazeker.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74702560" bron="TT" endtime="74705600" label="" volgnummer="257">
+<iMMix:wordsequence>U wilt u volgende leven uitsluitend aan vrouwen besteden.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74705600" bron="TT" endtime="74708800" label="" volgnummer="258">
+<iMMix:wordsequence>Hoe ziet dat leven eruit? Ik ben gek op vrouwen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74708800" bron="TT" endtime="74711520" label="" volgnummer="259">
+<iMMix:wordsequence>Ik ben getrouwd geweest met de mooiste vrouw.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74711520" bron="TT" endtime="74716840" label="" volgnummer="260">
+<iMMix:wordsequence>Daar heb ik drie geweldige kinderen mee.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74716840" bron="TT" endtime="74721320" label="" volgnummer="261">
+<iMMix:wordsequence>Ik heb heel bijzondere vrouwen ontmoet in mijn leven.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74721320" bron="TT" endtime="74724000" label="" volgnummer="262">
+<iMMix:wordsequence>Dus het zit ook in uw eerste leven? Jazeker.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74724000" bron="TT" endtime="74726400" label="" volgnummer="263">
+<iMMix:wordsequence>Dank u wel, Roland Kahn.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74727320" bron="TT" endtime="74729840" label="" volgnummer="264">
+<iMMix:wordsequence>Morgen ontvangt Sven Kockelmann een nieuwe gast in Een op Een.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74729840" bron="TT" endtime="74731240" label="" volgnummer="265">
+<iMMix:wordsequence>Goedenavond.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74733400" bron="TT" endtime="74736000" label="" volgnummer="266">
+<iMMix:wordsequence>DIT PROGRAMMA WERD LIVE ONDERTITELD. VOOR MEER INFO: www.tt888.nl</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11862894">
+<iMMix:speech begintime="74736000" bron="TT" endtime="74740080" label="" volgnummer="267">
+<iMMix:wordsequence>NPO ONDERTITELING TT888, 2014 tt888reacties(a)omroep.nl</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+</iMMix:transcriptie>
+</iMMix:DataSetExpressie></metadata></record></GetRecord></OAI-PMH>

@@ -1,0 +1,2400 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"><responseDate>2016-04-21T10:50:48.360+02:00</responseDate><request verb="GetRecord" identifier="oai:beeldengeluid.nl:Expressie:4269669" metadataPrefix="iMMix">http://integrator.beeldengeluid.nl:80/search_service_rs/oai/</request><GetRecord><record><header><identifier>oai:beeldengeluid.nl:Expressie:4269669</identifier><datestamp>2015-12-11T22:58:08Z</datestamp></header><metadata><iMMix:DataSetExpressie xmlns:iMMix="http://instituut.beeldengeluid.nl/namespace/iMMix" xmlns:ns2="http://beeldengeluid.nl/webservices/verityindexservice" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<iMMix:doc id="/280631/323009/391597/4269669">
+<iMMix:expressie>
+<iMMix:docid>VPWON_1229507</iMMix:docid>
+<iMMix:afleveringsnummer>1</iMMix:afleveringsnummer>
+<iMMix:deel/>
+<iMMix:tijdsduur>3520600</iMMix:tijdsduur>
+<iMMix:broncatalogus/>
+<iMMix:beschikbaarstelling/>
+<iMMix:collecties_online/>
+<iMMix:descriptie>
+<iMMix:titels/>
+<iMMix:rollen/>
+<iMMix:taalgebruiken/>
+<iMMix:nationaliteiten/>
+<iMMix:context>
+<iMMix:onderscheiding/>
+<iMMix:gelegenheid/>
+<iMMix:kleur/>
+<iMMix:indicatie_stom/>
+<iMMix:contekst/>
+<iMMix:aanleidingcompositie/>
+</iMMix:context>
+<iMMix:opnamen>
+<iMMix:opname>
+<iMMix:begindatum/>
+<iMMix:einddatum/>
+<iMMix:datumprecisie/>
+<iMMix:productiejaar>2010</iMMix:productiejaar>
+<iMMix:montagedatum/>
+<iMMix:begintijd/>
+<iMMix:eindtijd/>
+<iMMix:indicatiepubliek/>
+<iMMix:annotatie/>
+</iMMix:opname>
+</iMMix:opnamen>
+<iMMix:recht>
+<iMMix:bron/>
+<iMMix:rechten/>
+<iMMix:blokkering/>
+<iMMix:licentie/>
+</iMMix:recht>
+<iMMix:descriptie_ontsluitingen>
+<iMMix:kijkwijzer_classificaties/>
+</iMMix:descriptie_ontsluitingen>
+</iMMix:descriptie>
+</iMMix:expressie>
+<iMMix:publicaties>
+<iMMix:publicatie>
+<iMMix:id>4678232</iMMix:id>
+<iMMix:titel/>
+<iMMix:type>Uitzending</iMMix:type>
+<iMMix:begindatum>06-07-2014</iMMix:begindatum>
+<iMMix:einddatum/>
+<iMMix:datumprecisie/>
+<iMMix:begintijd>46953000</iMMix:begintijd>
+<iMMix:eindtijd>50473600</iMMix:eindtijd>
+<iMMix:tijdsduur>3520600</iMMix:tijdsduur>
+<iMMix:tijdsduur_annotatie/>
+<iMMix:begintijdstip/>
+<iMMix:annotatie_publicatie>Stereo</iMMix:annotatie_publicatie>
+<iMMix:tijdcodestandaard/>
+<iMMix:distributiekanaal>televisie</iMMix:distributiekanaal>
+<iMMix:distributieformaat>16:9</iMMix:distributieformaat>
+<iMMix:gelegenheid/>
+<iMMix:indicatie_herhaling>0</iMMix:indicatie_herhaling>
+<iMMix:indicatie_live/>
+<iMMix:uitzendfrequentie/>
+<iMMix:begin_binnen_expressie/>
+<iMMix:einde_binnen_expressie/>
+<iMMix:ontvangstdatum/>
+<iMMix:weeknummer/>
+<iMMix:sorteerdatum>06-07-2014</iMMix:sorteerdatum>
+<iMMix:sorteertype>1</iMMix:sorteertype>
+<iMMix:technische_annotatie/>
+<iMMix:uitzendnorm>SD</iMMix:uitzendnorm>
+<iMMix:productID>VPWON_1229507</iMMix:productID>
+<iMMix:ugstatus>Onbekend</iMMix:ugstatus>
+<iMMix:netten>
+<iMMix:net>Nederland 2</iMMix:net>
+</iMMix:netten>
+<iMMix:zendgemachtigden>
+<iMMix:zendgemachtigde>NTR</iMMix:zendgemachtigde>
+</iMMix:zendgemachtigden>
+</iMMix:publicatie>
+<iMMix:publicatie>
+<iMMix:id>4678233</iMMix:id>
+<iMMix:titel/>
+<iMMix:type>Uitzending</iMMix:type>
+<iMMix:begindatum/>
+<iMMix:einddatum/>
+<iMMix:datumprecisie/>
+<iMMix:begintijd/>
+<iMMix:eindtijd/>
+<iMMix:tijdsduur>3520600</iMMix:tijdsduur>
+<iMMix:tijdsduur_annotatie/>
+<iMMix:begintijdstip/>
+<iMMix:annotatie_publicatie>Het programma is deels een herhaling.</iMMix:annotatie_publicatie>
+<iMMix:tijdcodestandaard/>
+<iMMix:distributiekanaal>televisie</iMMix:distributiekanaal>
+<iMMix:distributieformaat/>
+<iMMix:gelegenheid/>
+<iMMix:indicatie_herhaling>0</iMMix:indicatie_herhaling>
+<iMMix:indicatie_live/>
+<iMMix:uitzendfrequentie/>
+<iMMix:begin_binnen_expressie/>
+<iMMix:einde_binnen_expressie/>
+<iMMix:ontvangstdatum/>
+<iMMix:weeknummer/>
+<iMMix:sorteerdatum>1/1/2010 12:00:00 AM</iMMix:sorteerdatum>
+<iMMix:sorteertype>6</iMMix:sorteertype>
+<iMMix:technische_annotatie/>
+<iMMix:uitzendnorm/>
+<iMMix:productID/>
+<iMMix:ugstatus>Onbekend</iMMix:ugstatus>
+<iMMix:netten/>
+<iMMix:zendgemachtigden>
+<iMMix:zendgemachtigde>NTR</iMMix:zendgemachtigde>
+</iMMix:zendgemachtigden>
+</iMMix:publicatie>
+</iMMix:publicaties>
+<iMMix:Posities>
+<iMMix:Positie>
+<iMMix:begintijd/>
+<iMMix:eindtijd/>
+<iMMix:annotatie/>
+<iMMix:beginopdrager>120000</iMMix:beginopdrager>
+<iMMix:eindeopdrager>3640600</iMMix:eindeopdrager>
+<iMMix:volgnummer/>
+<iMMix:dragernummer>NTR_PODIUM___-VPR00034694</iMMix:dragernummer>
+<iMMix:dragertype>media archive</iMMix:dragertype>
+<iMMix:archiefstatus/>
+<iMMix:depotstatus/>
+<iMMix:bewaarplaats>Digitaal Archief</iMMix:bewaarplaats>
+<iMMix:opbergeenheid/>
+<iMMix:dragerannotatie/>
+<iMMix:dragersoort>Programma</iMMix:dragersoort>
+<iMMix:dragerid>13500463</iMMix:dragerid>
+<iMMix:DMGUID>20140706143245508007904507980C16E66DA380000005876B00000D0F012652</iMMix:DMGUID>
+<iMMix:SOF>115000</iMMix:SOF>
+<iMMix:publID>4678232</iMMix:publID>
+<iMMix:ExterneReferentie/>
+<iMMix:beginpositieopdrager/>
+<iMMix:eindpositieopdrager/>
+<iMMix:formaat>SD</iMMix:formaat>
+<iMMix:herkomst/>
+<iMMix:geluidstype/>
+<iMMix:metrage/>
+<iMMix:sortering/>
+<iMMix:locatie/>
+<iMMix:positieid>95856261</iMMix:positieid>
+<iMMix:TechnischeGegevens/>
+<iMMix:datum_aangemaakt>2014-07-06T14:37:43Z</iMMix:datum_aangemaakt>
+</iMMix:Positie>
+<iMMix:Positie>
+<iMMix:begintijd/>
+<iMMix:eindtijd/>
+<iMMix:annotatie/>
+<iMMix:beginopdrager>120000</iMMix:beginopdrager>
+<iMMix:eindeopdrager>3640600</iMMix:eindeopdrager>
+<iMMix:volgnummer/>
+<iMMix:dragernummer>NTR_PODIUM___-VPR00034694.mpg</iMMix:dragernummer>
+<iMMix:dragertype>MPG1</iMMix:dragertype>
+<iMMix:archiefstatus/>
+<iMMix:depotstatus/>
+<iMMix:bewaarplaats>Digitaal Archief</iMMix:bewaarplaats>
+<iMMix:opbergeenheid/>
+<iMMix:dragerannotatie/>
+<iMMix:dragersoort>Programma</iMMix:dragersoort>
+<iMMix:dragerid>13500464</iMMix:dragerid>
+<iMMix:DMGUID/>
+<iMMix:SOF/>
+<iMMix:publID>4678232</iMMix:publID>
+<iMMix:ExterneReferentie/>
+<iMMix:beginpositieopdrager/>
+<iMMix:eindpositieopdrager/>
+<iMMix:formaat>SD</iMMix:formaat>
+<iMMix:herkomst/>
+<iMMix:geluidstype/>
+<iMMix:metrage/>
+<iMMix:sortering/>
+<iMMix:locatie/>
+<iMMix:positieid>95856262</iMMix:positieid>
+<iMMix:TechnischeGegevens/>
+<iMMix:datum_aangemaakt>2014-07-06T14:37:43Z</iMMix:datum_aangemaakt>
+</iMMix:Positie>
+<iMMix:Positie>
+<iMMix:begintijd/>
+<iMMix:eindtijd/>
+<iMMix:annotatie/>
+<iMMix:beginopdrager>120000</iMMix:beginopdrager>
+<iMMix:eindeopdrager>3640600</iMMix:eindeopdrager>
+<iMMix:volgnummer/>
+<iMMix:dragernummer>NTR_PODIUM___-VPR00034694.mxf</iMMix:dragernummer>
+<iMMix:dragertype>MXF</iMMix:dragertype>
+<iMMix:archiefstatus/>
+<iMMix:depotstatus/>
+<iMMix:bewaarplaats>Digitaal Archief</iMMix:bewaarplaats>
+<iMMix:opbergeenheid/>
+<iMMix:dragerannotatie/>
+<iMMix:dragersoort>Programma</iMMix:dragersoort>
+<iMMix:dragerid>13500465</iMMix:dragerid>
+<iMMix:DMGUID/>
+<iMMix:SOF/>
+<iMMix:publID>4678232</iMMix:publID>
+<iMMix:ExterneReferentie/>
+<iMMix:beginpositieopdrager/>
+<iMMix:eindpositieopdrager/>
+<iMMix:formaat>SD</iMMix:formaat>
+<iMMix:herkomst/>
+<iMMix:geluidstype/>
+<iMMix:metrage/>
+<iMMix:sortering/>
+<iMMix:locatie/>
+<iMMix:positieid>95856263</iMMix:positieid>
+<iMMix:TechnischeGegevens/>
+<iMMix:datum_aangemaakt>2014-07-06T14:37:43Z</iMMix:datum_aangemaakt>
+</iMMix:Positie>
+<iMMix:Positie>
+<iMMix:begintijd/>
+<iMMix:eindtijd/>
+<iMMix:annotatie/>
+<iMMix:beginopdrager>120000</iMMix:beginopdrager>
+<iMMix:eindeopdrager>3640600</iMMix:eindeopdrager>
+<iMMix:volgnummer/>
+<iMMix:dragernummer>2014-07-06-13,00-2_2014-07-06-13,00-2_VPWON_1229507.stl</iMMix:dragernummer>
+<iMMix:dragertype>stl</iMMix:dragertype>
+<iMMix:archiefstatus>uitgangsmateriaal</iMMix:archiefstatus>
+<iMMix:depotstatus>in depot</iMMix:depotstatus>
+<iMMix:bewaarplaats/>
+<iMMix:opbergeenheid/>
+<iMMix:dragerannotatie/>
+<iMMix:dragersoort>Programma</iMMix:dragersoort>
+<iMMix:dragerid>13500469</iMMix:dragerid>
+<iMMix:DMGUID/>
+<iMMix:SOF/>
+<iMMix:publID>4678232</iMMix:publID>
+<iMMix:ExterneReferentie/>
+<iMMix:beginpositieopdrager/>
+<iMMix:eindpositieopdrager/>
+<iMMix:formaat/>
+<iMMix:herkomst/>
+<iMMix:geluidstype/>
+<iMMix:metrage/>
+<iMMix:sortering/>
+<iMMix:locatie>Digitaal archief</iMMix:locatie>
+<iMMix:positieid>95856267</iMMix:positieid>
+<iMMix:TechnischeGegevens/>
+<iMMix:datum_aangemaakt>2014-07-06T15:17:23Z</iMMix:datum_aangemaakt>
+<iMMix:parent_dragerid>13500465</iMMix:parent_dragerid>
+</iMMix:Positie>
+</iMMix:Posities>
+</iMMix:doc>
+<iMMix:Niveaus>
+<iMMix:Niveau intentieID="1" taalID="1">
+<iMMix:samenvatting>In deze aflevering:</iMMix:samenvatting>
+<iMMix:beschrijving/>
+<iMMix:annotatie/>
+<iMMix:taakID>5005460</iMMix:taakID>
+<iMMix:ontsluitingen>
+<iMMix:museumtitel/>
+<iMMix:genres/>
+<iMMix:doelgroepen/>
+<iMMix:themas/>
+<iMMix:trefwoorden/>
+<iMMix:vervallen_trefwoorden/>
+<iMMix:rvd_genres/>
+<iMMix:persoonsnamen/>
+<iMMix:geografische_namen/>
+<iMMix:namen/>
+<iMMix:muziekstijlen/>
+<iMMix:deelcatalogi/>
+<iMMix:links/>
+</iMMix:ontsluitingen>
+</iMMix:Niveau>
+</iMMix:Niveaus>
+<iMMix:transcriptie>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="124200" bron="TT" endtime="125920" label="" volgnummer="1">
+<iMMix:wordsequence>888</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="127680" bron="TT" endtime="129160" label="" volgnummer="2">
+<iMMix:wordsequence>MUZIEK</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="149920" bron="TT" endtime="154200" label="" volgnummer="3">
+<iMMix:wordsequence>Vandaag een portret van de Nederlandse stervioliste Simone Lamsma.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="154400" bron="TT" endtime="157400" label="" volgnummer="4">
+<iMMix:wordsequence>We volgden haar bij een aantal concerten dat ze gaf...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="157600" bron="TT" endtime="161320" label="" volgnummer="5">
+<iMMix:wordsequence>onder leiding van Jaap van Zweden, haar ontdekker en promotor.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="161520" bron="TT" endtime="164960" label="" volgnummer="6">
+<iMMix:wordsequence>Maar we zien Simone ook in Londen, de stad waar ze studeerde...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="165160" bron="TT" endtime="168880" label="" volgnummer="7">
+<iMMix:wordsequence>aan de Royal Academie of Music en waar ze veel herinneringen heeft.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="169920" bron="TT" endtime="171400" label="" volgnummer="8">
+<iMMix:wordsequence>MUZIEK</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="175760" bron="TT" endtime="179520" label="" volgnummer="9">
+<iMMix:wordsequence>Londen, Dallas, Amsterdam, Johannesburg...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="179720" bron="TT" endtime="182960" label="" volgnummer="10">
+<iMMix:wordsequence>van concertzaal naar vliegtuig naar hotelkamer.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="183160" bron="TT" endtime="188200" label="" volgnummer="11">
+<iMMix:wordsequence>Het leven van Simone Lamsma gaat de laatste paar jaar in sneltreinvaart.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="188400" bron="TT" endtime="192680" label="" volgnummer="12">
+<iMMix:wordsequence>Al jong is ze zelfstandig en redt zich omdat ze weet wat ze wilt.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="192880" bron="TT" endtime="196680" label="" volgnummer="13">
+<iMMix:wordsequence>Ze wil eigenlijk maar EEN ding en dat is topvioliste zijn.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="201880" bron="TT" endtime="204520" label="" volgnummer="14">
+<iMMix:wordsequence>Wat maakt Simone Lamsma zo bijzonder?</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="206320" bron="TT" endtime="207800" label="" volgnummer="15">
+<iMMix:wordsequence>Ehm...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="208800" bron="TT" endtime="210680" label="" volgnummer="16">
+<iMMix:wordsequence>Nou, omdat ze eigenlijk...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="212720" bron="TT" endtime="216720" label="" volgnummer="17">
+<iMMix:wordsequence>Nu al, vind ik, overstijgt ze het ambacht vioolspel, maar is het...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="218000" bron="TT" endtime="219480" label="" volgnummer="18">
+<iMMix:wordsequence>Een eh...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="219680" bron="TT" endtime="221400" label="" volgnummer="19">
+<iMMix:wordsequence>iemand die...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="222440" bron="TT" endtime="224360" label="" volgnummer="20">
+<iMMix:wordsequence>zo boven de materie staat...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="224560" bron="TT" endtime="229040" label="" volgnummer="21">
+<iMMix:wordsequence>dat je vergeet dat er iemand achter staat die daar...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="229240" bron="TT" endtime="233200" label="" volgnummer="22">
+<iMMix:wordsequence>zo ongelofelijk veel jaren keihard voor gewerkt heeft.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="270760" bron="TT" endtime="275040" label="" volgnummer="23">
+<iMMix:wordsequence>Er zijn enorm veel violisten, en je hebt dan een top tien.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="275240" bron="TT" endtime="277120" label="" volgnummer="24">
+<iMMix:wordsequence>Of een top vijftien.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="277320" bron="TT" endtime="281480" label="" volgnummer="25">
+<iMMix:wordsequence>Je weet niet hoeveel het er zijn, maar rond die top tien, vijftien...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="281680" bron="TT" endtime="284640" label="" volgnummer="26">
+<iMMix:wordsequence>staat ze, voor mij althans, helemaal bovenaan.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="284840" bron="TT" endtime="286320" label="" volgnummer="27">
+<iMMix:wordsequence>MUZIEK</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="322800" bron="TT" endtime="324280" label="" volgnummer="28">
+<iMMix:wordsequence>MUZIEK</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="400440" bron="TT" endtime="403960" label="" volgnummer="29">
+<iMMix:wordsequence>Je hebt een viool die ik bijna niet herken als viool.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="404160" bron="TT" endtime="406200" label="" volgnummer="30">
+<iMMix:wordsequence>Want ik mis eh... wat mis ik nou?</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="406400" bron="TT" endtime="408920" label="" volgnummer="31">
+<iMMix:wordsequence>Ik mis die scherpe hoekjes. Dat klopt, ja.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="409120" bron="TT" endtime="412080" label="" volgnummer="32">
+<iMMix:wordsequence>Wat is het dan voor viool? Het is een Stradivarius.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="412280" bron="TT" endtime="415440" label="" volgnummer="33">
+<iMMix:wordsequence>Het is de enige die hij in deze vorm heeft gebouwd.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="415640" bron="TT" endtime="419680" label="" volgnummer="34">
+<iMMix:wordsequence>Heel uniek.Ik heb nog nooit zo dicht bij een Stradivarius gestaan.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="419880" bron="TT" endtime="424000" label="" volgnummer="35">
+<iMMix:wordsequence>Wat maakt die instrument, behalve dan de vorm...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="424200" bron="TT" endtime="425680" label="" volgnummer="36">
+<iMMix:wordsequence>zo uniek?</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="425880" bron="TT" endtime="427760" label="" volgnummer="37">
+<iMMix:wordsequence>De toon. Voor mij de toon.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="427960" bron="TT" endtime="433600" label="" volgnummer="38">
+<iMMix:wordsequence>Dat is waar ik meteen op viel toen ik hem voor het eerste probeerde.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="433800" bron="TT" endtime="437760" label="" volgnummer="39">
+<iMMix:wordsequence>Vaak voel je wel meteen een soort klik met een instrument.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="437960" bron="TT" endtime="439760" label="" volgnummer="40">
+<iMMix:wordsequence>Dat is persoonlijk, hoor.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="439960" bron="TT" endtime="442040" label="" volgnummer="41">
+<iMMix:wordsequence>Als je 'm nou eens beetpakt, he.Ja.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="442240" bron="TT" endtime="446280" label="" volgnummer="42">
+<iMMix:wordsequence>En je laat een toon horen, dan klinkt hij bij jou anders dan bij mij.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="446480" bron="TT" endtime="450720" label="" volgnummer="43">
+<iMMix:wordsequence>Ik sta een meter weg, laat staan als jij in het Concertgebouw speelt...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="450920" bron="TT" endtime="453240" label="" volgnummer="44">
+<iMMix:wordsequence>dan zitten mensen 30, 40 meter weg. Ja.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="453440" bron="TT" endtime="457800" label="" volgnummer="45">
+<iMMix:wordsequence>Hoe kun jij van zo dichtbij bepalen of het een geweldige klank is...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="458000" bron="TT" endtime="460280" label="" volgnummer="46">
+<iMMix:wordsequence>en wat dat ding dan 50 meter verder doet?</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="460480" bron="TT" endtime="463440" label="" volgnummer="47">
+<iMMix:wordsequence>Dat is inderdaad anders, wat-ie in een zaal doet.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="463640" bron="TT" endtime="466200" label="" volgnummer="48">
+<iMMix:wordsequence>Dat zijn heel verschillende dingen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="466400" bron="TT" endtime="470600" label="" volgnummer="49">
+<iMMix:wordsequence>Je gaat natuurlijk eerst af op toonkwaliteit.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="470800" bron="TT" endtime="474080" label="" volgnummer="50">
+<iMMix:wordsequence>Of je de toon mooi vindt en of-ie bij je past.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="474280" bron="TT" endtime="477240" label="" volgnummer="51">
+<iMMix:wordsequence>En bij deze viool is de toon heel erg rond...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="477440" bron="TT" endtime="478920" label="" volgnummer="52">
+<iMMix:wordsequence>en hij heeft...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="479120" bron="TT" endtime="486320" label="" volgnummer="53">
+<iMMix:wordsequence>Stradivarius heeft vaak dat-ie een erg mooie sopraankwaliteit heeft.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="486520" bron="TT" endtime="491560" label="" volgnummer="54">
+<iMMix:wordsequence>En bij deze viool is het zo dat-ie ook de diepere klank bezit.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="491760" bron="TT" endtime="496000" label="" volgnummer="55">
+<iMMix:wordsequence>Zou je het begin van Sjostakovitsj willen laten horen?Tuurlijk.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="496200" bron="TT" endtime="498880" label="" volgnummer="56">
+<iMMix:wordsequence>Zo dichtbij hoor je het bijna nooit.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="552320" bron="TT" endtime="553880" label="" volgnummer="57">
+<iMMix:wordsequence>Het gaat maar door, he.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="555160" bron="TT" endtime="558880" label="" volgnummer="58">
+<iMMix:wordsequence>Het gaat lang door, he, deze melodie.Een hele lange lijn.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="559080" bron="TT" endtime="563160" label="" volgnummer="59">
+<iMMix:wordsequence>Het houdt niet op. Verschrikkelijk dat ik je onderbreek.Zonde!</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="563360" bron="TT" endtime="565840" label="" volgnummer="60">
+<iMMix:wordsequence>Zonde van de melodie. Maar wat doet-ie nou?</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="566040" bron="TT" endtime="569760" label="" volgnummer="61">
+<iMMix:wordsequence>Het eerste deel is net als het derde deel heel langzaam van opbouw...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="569960" bron="TT" endtime="573680" label="" volgnummer="62">
+<iMMix:wordsequence>de melodie lijkt nergens vandaan te komen en nergens naar toe te gaan.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="573880" bron="TT" endtime="577200" label="" volgnummer="63">
+<iMMix:wordsequence>Kun je uitleggen wat-ie doet? Wat doet die melodie?</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="577400" bron="TT" endtime="583440" label="" volgnummer="64">
+<iMMix:wordsequence>Naar mijn idee creeert hij vooral in het eerste deel een sfeer.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="583640" bron="TT" endtime="587760" label="" volgnummer="65">
+<iMMix:wordsequence>Een sfeer van hoe het toen was...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="587960" bron="TT" endtime="591600" label="" volgnummer="66">
+<iMMix:wordsequence>in zijn tijd, eigenlijk.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="591800" bron="TT" endtime="595920" label="" volgnummer="67">
+<iMMix:wordsequence>Dat was een ontzettend moeilijke... Sovjet-regime.Ja.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="596120" bron="TT" endtime="599480" label="" volgnummer="68">
+<iMMix:wordsequence>Een ontzettend moeilijke tijd. Donkere dagen.Ja.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="599680" bron="TT" endtime="604960" label="" volgnummer="69">
+<iMMix:wordsequence>Het is daarom ook een heel triest, somber eerste deel.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="624520" bron="TT" endtime="626000" label="" volgnummer="70">
+<iMMix:wordsequence>VIOOLMUZIEK</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="656280" bron="TT" endtime="659560" label="" volgnummer="71">
+<iMMix:wordsequence>Als jullie samen musiceren, wat doe je dan voor haar?</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="659760" bron="TT" endtime="664360" label="" volgnummer="72">
+<iMMix:wordsequence>In principe is zij ongelofelijk makkelijk te volgen ook.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="664560" bron="TT" endtime="667480" label="" volgnummer="73">
+<iMMix:wordsequence>Dat kenmerkt haar grootsheid weer.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="667680" bron="TT" endtime="669160" label="" volgnummer="74">
+<iMMix:wordsequence>Ehm...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="669360" bron="TT" endtime="673000" label="" volgnummer="75">
+<iMMix:wordsequence>Omdat het allemaal zo duidelijk en logisch is wat ze doet.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="674000" bron="TT" endtime="676400" label="" volgnummer="76">
+<iMMix:wordsequence>Die passacaglia, het derde deel...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="676600" bron="TT" endtime="680160" label="" volgnummer="77">
+<iMMix:wordsequence>dat lijkt een beetje op het begin van het concert.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="680360" bron="TT" endtime="684080" label="" volgnummer="78">
+<iMMix:wordsequence>Dan gaat-ie weer heel langzaam van start.Ja, dat klopt.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="684280" bron="TT" endtime="688640" label="" volgnummer="79">
+<iMMix:wordsequence>Wat doet-ie daar?Het is een passacaglia, dus eigenlijk een...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="688840" bron="TT" endtime="693080" label="" volgnummer="80">
+<iMMix:wordsequence>een thema wat zich steeds herhaalt op verschillende manieren.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="693280" bron="TT" endtime="696400" label="" volgnummer="81">
+<iMMix:wordsequence>En voor mijn gevoel...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="696600" bron="TT" endtime="700400" label="" volgnummer="82">
+<iMMix:wordsequence>legt Sjostakovitsj zijn ziel bloot.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="700600" bron="TT" endtime="705560" label="" volgnummer="83">
+<iMMix:wordsequence>Je voelt eigenlijk zijn eigen pijn en leed.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="705760" bron="TT" endtime="708640" label="" volgnummer="84">
+<iMMix:wordsequence>Het is heel zwaar, ja. Wat voor ziel had hij?</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="708840" bron="TT" endtime="711880" label="" volgnummer="85">
+<iMMix:wordsequence>Als hij z'n ziel bloot legt, wat doet-ie dan?</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="712880" bron="TT" endtime="717000" label="" volgnummer="86">
+<iMMix:wordsequence>Leer je hem kennen?Je hoort vooral pijn, en eigenlijk dat...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="717200" bron="TT" endtime="722960" label="" volgnummer="87">
+<iMMix:wordsequence>Hij heeft eigenlijk in creatieve gevangenschap moeten leven.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="723160" bron="TT" endtime="724640" label="" volgnummer="88">
+<iMMix:wordsequence>Eigenlijk wel.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="724840" bron="TT" endtime="729480" label="" volgnummer="89">
+<iMMix:wordsequence>En dat komt er voor mijn gevoel allemaal uit.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="729680" bron="TT" endtime="731160" label="" volgnummer="90">
+<iMMix:wordsequence>In dat deel.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="780720" bron="TT" endtime="783920" label="" volgnummer="91">
+<iMMix:wordsequence>Het leven van Sjostakovitsj wordt voor een deel bepaald...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="784120" bron="TT" endtime="788080" label="" volgnummer="92">
+<iMMix:wordsequence>door z'n botsingen met het Centraal Comite van de Communistische Partij.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="788280" bron="TT" endtime="792000" label="" volgnummer="93">
+<iMMix:wordsequence>Hij wordt gedwongen om steeds opnieuw verantwoording af te leggen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="792200" bron="TT" endtime="794160" label="" volgnummer="94">
+<iMMix:wordsequence>Aan een vriend schrijft hij:</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="794360" bron="TT" endtime="798320" label="" volgnummer="95">
+<iMMix:wordsequence>'s Avonds, als de schandalige debatten voorbij waren...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="798520" bron="TT" endtime="802840" label="" volgnummer="96">
+<iMMix:wordsequence>ging ik naar huis en werkte ik aan het derde deel van m'n concert.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="803040" bron="TT" endtime="806280" label="" volgnummer="97">
+<iMMix:wordsequence>Ik heb 't af en het is geloof ik niet slecht geworden.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="834480" bron="TT" endtime="839360" label="" volgnummer="98">
+<iMMix:wordsequence>Ik was eigenlijk twee toen ik... Niet te geloven.Viool wilde spelen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="839560" bron="TT" endtime="843440" label="" volgnummer="99">
+<iMMix:wordsequence>Hoe kan een meisje van twee dat beslissen?Dat weet ik niet.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="843640" bron="TT" endtime="847800" label="" volgnummer="100">
+<iMMix:wordsequence>Ik zag iemand op tv viool spelen en vanaf dat moment wilde ik dat ook.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="848000" bron="TT" endtime="851760" label="" volgnummer="101">
+<iMMix:wordsequence>Wie was dat?Geen idee. Een jongetje in een kinderprogramma.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="851960" bron="TT" endtime="855840" label="" volgnummer="102">
+<iMMix:wordsequence>En toen wilde je dat. Toen kreeg je van pappie en mammie een viool?</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="856040" bron="TT" endtime="859160" label="" volgnummer="103">
+<iMMix:wordsequence>Niet meteen. Ze dachten dat het over zou gaan.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="859360" bron="TT" endtime="862760" label="" volgnummer="104">
+<iMMix:wordsequence>Ze wachtten en vonden twee ook veel te jong.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="862960" bron="TT" endtime="866920" label="" volgnummer="105">
+<iMMix:wordsequence>Dus ik heb op mijn vijfde m'n eerste viooltje gekregen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="867120" bron="TT" endtime="869760" label="" volgnummer="106">
+<iMMix:wordsequence>Je was jong nog, je ging naar Amsterdam even...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="869960" bron="TT" endtime="872200" label="" volgnummer="107">
+<iMMix:wordsequence>daar kreeg je les van Davina van Wely...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="872400" bron="TT" endtime="874400" label="" volgnummer="108">
+<iMMix:wordsequence>maar toen was je weg, het land uit.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="874600" bron="TT" endtime="877680" label="" volgnummer="109">
+<iMMix:wordsequence>Ja.Nu kom je uit de hemel vallen en ben je weer terug.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="877880" bron="TT" endtime="881200" label="" volgnummer="110">
+<iMMix:wordsequence>Nou, ja...Om 't extreem te zeggen. Zo lijkt het.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="881400" bron="TT" endtime="886160" label="" volgnummer="111">
+<iMMix:wordsequence>Zo is het niet helemaal. Ik ben op mijn elfde naar Engeland verhuisd.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="886360" bron="TT" endtime="890400" label="" volgnummer="112">
+<iMMix:wordsequence>Daar heb ik eerst aan de Yehudi Menuhin School gestudeerd.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="890600" bron="TT" endtime="893600" label="" volgnummer="113">
+<iMMix:wordsequence>Op je elfde.Ja. Naar Engeland verhuisd.Ja.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="894600" bron="TT" endtime="899040" label="" volgnummer="114">
+<iMMix:wordsequence>Wat gaan we nog met je meemaken? Op je tweede besluiten viool te spelen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="899240" bron="TT" endtime="903600" label="" volgnummer="115">
+<iMMix:wordsequence>Op je elfde verhuisd naar... Hoe ging dat? Gingen je ouders mee?Nee.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="903800" bron="TT" endtime="905360" label="" volgnummer="116">
+<iMMix:wordsequence>Ik ben... ging alleen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="905560" bron="TT" endtime="907040" label="" volgnummer="117">
+<iMMix:wordsequence>MUZIEK</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="932960" bron="TT" endtime="936440" label="" volgnummer="118">
+<iMMix:wordsequence>Als ik aan mezelf denk toen ik tien, elf jaar oud was...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="936640" bron="TT" endtime="939000" label="" volgnummer="119">
+<iMMix:wordsequence>wilde ik niets liever dan hier naartoe.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="939200" bron="TT" endtime="941480" label="" volgnummer="120">
+<iMMix:wordsequence>Nadat ik de school had gezien...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="941680" bron="TT" endtime="943600" label="" volgnummer="121">
+<iMMix:wordsequence>wou ik er meteen blijven.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="943800" bron="TT" endtime="945280" label="" volgnummer="122">
+<iMMix:wordsequence>Ik vond het heerlijk.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="945480" bron="TT" endtime="949960" label="" volgnummer="123">
+<iMMix:wordsequence>En ik was vanaf jongs af aan al serieus bezig met de muziek.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="950160" bron="TT" endtime="955000" label="" volgnummer="124">
+<iMMix:wordsequence>Het was voor mij duidelijk dat ik violist ging worden.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="955200" bron="TT" endtime="959200" label="" volgnummer="125">
+<iMMix:wordsequence>Ja, ik was er serieus mee bezig en wou dat dus heel graag.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="959400" bron="TT" endtime="960880" label="" volgnummer="126">
+<iMMix:wordsequence>MUZIEK</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="985360" bron="TT" endtime="989800" label="" volgnummer="127">
+<iMMix:wordsequence>Nou, de eerste paar weken dat ik hier kwam...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="990000" bron="TT" endtime="992120" label="" volgnummer="128">
+<iMMix:wordsequence>op de Menuhin School...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="992320" bron="TT" endtime="996640" label="" volgnummer="129">
+<iMMix:wordsequence>die waren heel erg moeilijk voor mij en mijn ouders.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="997720" bron="TT" endtime="1001800" label="" volgnummer="130">
+<iMMix:wordsequence>Ik had heel erg last van heimwee en sprak totaal geen Engels.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1002000" bron="TT" endtime="1005280" label="" volgnummer="131">
+<iMMix:wordsequence>Dus ja, het was niet gemakkelijk in het begin.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1005480" bron="TT" endtime="1008080" label="" volgnummer="132">
+<iMMix:wordsequence>Maar ik zag wel al gauw ehm...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1009280" bron="TT" endtime="1011560" label="" volgnummer="133">
+<iMMix:wordsequence>dat het de goede plek voor mij was.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1011760" bron="TT" endtime="1013640" label="" volgnummer="134">
+<iMMix:wordsequence>Ik voelde me er al snel goed.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1013840" bron="TT" endtime="1018320" label="" volgnummer="135">
+<iMMix:wordsequence>Met allerlei mensen om me heen die hetzelfde deden als mij.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1018520" bron="TT" endtime="1024240" label="" volgnummer="136">
+<iMMix:wordsequence>Na twee weken was het ook wel voorbij, die heimwee.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1024440" bron="TT" endtime="1026000" label="" volgnummer="137">
+<iMMix:wordsequence>Toen was ik wel gewend.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1026200" bron="TT" endtime="1030280" label="" volgnummer="138">
+<iMMix:wordsequence>Ja, vanaf dat moment eigenlijk alleen maar fijn geweest.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1030480" bron="TT" endtime="1035040" label="" volgnummer="139">
+<iMMix:wordsequence>Je bent je wel meteen bewust van het niveau om je heen...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1035240" bron="TT" endtime="1037360" label="" volgnummer="140">
+<iMMix:wordsequence>en je eigen niveau.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1037560" bron="TT" endtime="1041920" label="" volgnummer="141">
+<iMMix:wordsequence>Dat merk je heel snel in hoe met je gaat en hoe je ontwikkeling is.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1042120" bron="TT" endtime="1044400" label="" volgnummer="142">
+<iMMix:wordsequence>De kansen die je krijgt en...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1044600" bron="TT" endtime="1047320" label="" volgnummer="143">
+<iMMix:wordsequence>Je weet het eigenlijk heel snel gewoon.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1047520" bron="TT" endtime="1053520" label="" volgnummer="144">
+<iMMix:wordsequence>Voor mij was het altijd heel fijn dat het niveau om me heen hoog was.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1054520" bron="TT" endtime="1057880" label="" volgnummer="145">
+<iMMix:wordsequence>Dat werkte voor mij heel inspirerend eigenlijk.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1058080" bron="TT" endtime="1059560" label="" volgnummer="146">
+<iMMix:wordsequence>MUZIEK</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1080080" bron="TT" endtime="1082880" label="" volgnummer="147">
+<iMMix:wordsequence>Hier achter mij is het Royal College of Music...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1083080" bron="TT" endtime="1086520" label="" volgnummer="148">
+<iMMix:wordsequence>waar ik dus niet studeerde, maar ik woonde hier om de hoek.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1086720" bron="TT" endtime="1088760" label="" volgnummer="149">
+<iMMix:wordsequence>Dus ik kwam hier regelmatig...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1088960" bron="TT" endtime="1091520" label="" volgnummer="150">
+<iMMix:wordsequence>omdat vrienden van mij hier studeerden.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1091720" bron="TT" endtime="1095080" label="" volgnummer="151">
+<iMMix:wordsequence>Dus ik was regelmatig bij het Royal College op bezoek.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1095280" bron="TT" endtime="1096760" label="" volgnummer="152">
+<iMMix:wordsequence>Ehm...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1096960" bron="TT" endtime="1099840" label="" volgnummer="153">
+<iMMix:wordsequence>En hier voor mij...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1100040" bron="TT" endtime="1105120" label="" volgnummer="154">
+<iMMix:wordsequence>dat was eigenlijk waar ik op uitkeek elke dag.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1105320" bron="TT" endtime="1106800" label="" volgnummer="155">
+<iMMix:wordsequence>De Royal Albert Hall.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1107000" bron="TT" endtime="1110320" label="" volgnummer="156">
+<iMMix:wordsequence>Er was altijd wel heel veel te beleven...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1110520" bron="TT" endtime="1112800" label="" volgnummer="157">
+<iMMix:wordsequence>dus ik had een hele mooie uitkijk.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1113000" bron="TT" endtime="1117960" label="" volgnummer="158">
+<iMMix:wordsequence>Ik kon alles mooi volgen, wat hier gebeurde en speelde.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1118160" bron="TT" endtime="1120880" label="" volgnummer="159">
+<iMMix:wordsequence>Er is altijd wel wat te beleven.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1121080" bron="TT" endtime="1122560" label="" volgnummer="160">
+<iMMix:wordsequence>MUZIEK</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1124280" bron="TT" endtime="1126920" label="" volgnummer="161">
+<iMMix:wordsequence>En hier, in dat gebouw woonde ik.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1127120" bron="TT" endtime="1130000" label="" volgnummer="162">
+<iMMix:wordsequence>Een groot studentenhuis.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1130200" bron="TT" endtime="1132720" label="" volgnummer="163">
+<iMMix:wordsequence>Ik heb hier hele goede herinneringen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1132920" bron="TT" endtime="1136800" label="" volgnummer="164">
+<iMMix:wordsequence>Aan het wonen hier en aan het studeren en het leven hier.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1137000" bron="TT" endtime="1142240" label="" volgnummer="165">
+<iMMix:wordsequence>Ik vond het eigenlijk heerlijk om alleen in Londen te wonen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1142440" bron="TT" endtime="1144840" label="" volgnummer="166">
+<iMMix:wordsequence>Het beviel me heel erg goed om eh...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1145040" bron="TT" endtime="1148480" label="" volgnummer="167">
+<iMMix:wordsequence>om zelf alles in de grote stad te kunnen ontdekken.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1148680" bron="TT" endtime="1150320" label="" volgnummer="168">
+<iMMix:wordsequence>En eh...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1150520" bron="TT" endtime="1154480" label="" volgnummer="169">
+<iMMix:wordsequence>Ja, de vrijheid vond ik heel erg fijn.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1154680" bron="TT" endtime="1158960" label="" volgnummer="170">
+<iMMix:wordsequence>Daar heb ik veel van geleerd en heb ik nu nog veel plezier van.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1159960" bron="TT" endtime="1162920" label="" volgnummer="171">
+<iMMix:wordsequence>Hier op de derde verdieping was mijn kamer.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1163120" bron="TT" endtime="1164600" label="" volgnummer="172">
+<iMMix:wordsequence>Die kamer, daar.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1164800" bron="TT" endtime="1168360" label="" volgnummer="173">
+<iMMix:wordsequence>Daar heb ik heel wat uurtjes doorgebracht.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1168560" bron="TT" endtime="1170960" label="" volgnummer="174">
+<iMMix:wordsequence>Zowel studerend als eh...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1171160" bron="TT" endtime="1174280" label="" volgnummer="175">
+<iMMix:wordsequence>Ja, gewoon mijn tijd doorgebracht. Geleefd.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1174480" bron="TT" endtime="1175960" label="" volgnummer="176">
+<iMMix:wordsequence>MUZIEK</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1193640" bron="TT" endtime="1195120" label="" volgnummer="177">
+<iMMix:wordsequence>MUZIEK</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1290640" bron="TT" endtime="1292120" label="" volgnummer="178">
+<iMMix:wordsequence>MUZIEK</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1499360" bron="TT" endtime="1500840" label="" volgnummer="179">
+<iMMix:wordsequence>Pampam!</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1502000" bron="TT" endtime="1505080" label="" volgnummer="180">
+<iMMix:wordsequence>Langzaam eerste deel. Onstuimig tweede deel.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1505280" bron="TT" endtime="1511280" label="" volgnummer="181">
+<iMMix:wordsequence>Die passacaglia met die oneindig mooie ziel-blootleg-muziek van Sjostakovitsj.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1511480" bron="TT" endtime="1516280" label="" volgnummer="182">
+<iMMix:wordsequence>En dan komt dat vierde deel. Helemaal een hals-over-kop stormscene.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1516480" bron="TT" endtime="1520600" label="" volgnummer="183">
+<iMMix:wordsequence>Ja, absoluut. Natuurlijk daarvoor nog de enorme cadens...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1520800" bron="TT" endtime="1523760" label="" volgnummer="184">
+<iMMix:wordsequence>van het derde deel naar het vierde deel toe.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1523960" bron="TT" endtime="1525440" label="" volgnummer="185">
+<iMMix:wordsequence>Als een grote brug.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1525640" bron="TT" endtime="1530000" label="" volgnummer="186">
+<iMMix:wordsequence>Het is eigenlijk haast een apart deel. Dat kan het haast zijn.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1530200" bron="TT" endtime="1533400" label="" volgnummer="187">
+<iMMix:wordsequence>Die cadens.Wat Sjostakovitsj wel vaker doet.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1533600" bron="TT" endtime="1536480" label="" volgnummer="188">
+<iMMix:wordsequence>Een cadens als een apart deel neerzetten.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1536680" bron="TT" endtime="1543200" label="" volgnummer="189">
+<iMMix:wordsequence>Kun je laten horen wat er dan gebeurt als jij klaar bent met die cadens en dat vierde deel in komt.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1543400" bron="TT" endtime="1547360" label="" volgnummer="190">
+<iMMix:wordsequence>Is dat te doen?Ik zou het eind van de cadens kunnen spelen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1547560" bron="TT" endtime="1552520" label="" volgnummer="191">
+<iMMix:wordsequence>Het orkest begint het laatste deel. De pauken die enorm tekeer gaan.Ja.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1573240" bron="TT" endtime="1576440" label="" volgnummer="192">
+<iMMix:wordsequence>PAUKEN EN REST ORKEST ZETTEN IN</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1600160" bron="TT" endtime="1604120" label="" volgnummer="193">
+<iMMix:wordsequence>Er was eens een dirigent in Berlijn, Herbert von Karajan.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1604320" bron="TT" endtime="1607840" label="" volgnummer="194">
+<iMMix:wordsequence>Toen ik klein was, was hij een beroemde dirigent. Jaren 70.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1608040" bron="TT" endtime="1611880" label="" volgnummer="195">
+<iMMix:wordsequence>Toen kwam hij met een meisje dat viool speelde, Anne-Sofie Mutter.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1612080" bron="TT" endtime="1615880" label="" volgnummer="196">
+<iMMix:wordsequence>En dat duo trad heel vaak op. Hij dirigeren, zij spelen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1616080" bron="TT" endtime="1618480" label="" volgnummer="197">
+<iMMix:wordsequence>Zo is zij wereldberoemd geworden.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1618680" bron="TT" endtime="1622360" label="" volgnummer="198">
+<iMMix:wordsequence>Door de advocatuur van Herbert von Karajan.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1622560" bron="TT" endtime="1624040" label="" volgnummer="199">
+<iMMix:wordsequence>En nu zie ik het weer:</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1624240" bron="TT" endtime="1628040" label="" volgnummer="200">
+<iMMix:wordsequence>Jaap van Zweden, een internationale sterdirigent...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1628240" bron="TT" endtime="1631760" label="" volgnummer="201">
+<iMMix:wordsequence>heeft Simone Lamsma onder zijn vleugelen genomen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1631960" bron="TT" endtime="1634440" label="" volgnummer="202">
+<iMMix:wordsequence>Jij treedt op met hem, ook in Dallas.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1635480" bron="TT" endtime="1638920" label="" volgnummer="203">
+<iMMix:wordsequence>Eenzelfde scenario. Wat is er tussen jullie twee?</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1639120" bron="TT" endtime="1641080" label="" volgnummer="204">
+<iMMix:wordsequence>Hoe is dat gegaan, ontstaan?</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1641280" bron="TT" endtime="1647360" label="" volgnummer="205">
+<iMMix:wordsequence>Wij hebben voor de eerste keer samengewerkt eind 2007 met het Radio Filharmonisch.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1647560" bron="TT" endtime="1650840" label="" volgnummer="206">
+<iMMix:wordsequence>Toen speelde Simanovsky eerste vioolconcert.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1651040" bron="TT" endtime="1659400" label="" volgnummer="207">
+<iMMix:wordsequence>En persoonlijk voel ik altijd heel snel of er met een bepaalde dirigent een soort klikis.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1659600" bron="TT" endtime="1662800" label="" volgnummer="208">
+<iMMix:wordsequence>Dat je mekaar goed aanvoelt, muzikaal gezien.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1663000" bron="TT" endtime="1667000" label="" volgnummer="209">
+<iMMix:wordsequence>En voor mijn gevoel had ik dat met Jaap van Zweden.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1667200" bron="TT" endtime="1668680" label="" volgnummer="210">
+<iMMix:wordsequence>Eigenlijk meteen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1668880" bron="TT" endtime="1674280" label="" volgnummer="211">
+<iMMix:wordsequence>En blijkbaar heeft hij dat dan misschien ook met mij zo ervaren.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1674480" bron="TT" endtime="1676360" label="" volgnummer="212">
+<iMMix:wordsequence>Tenminste, dat hoop ik wel.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1676560" bron="TT" endtime="1679920" label="" volgnummer="213">
+<iMMix:wordsequence>Ik zit in de zaal en ik hoor dat dan misschien niet.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1680120" bron="TT" endtime="1683640" label="" volgnummer="214">
+<iMMix:wordsequence>Ik hoor zo vaak mooie solisten en mooie dirigenten.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1683840" bron="TT" endtime="1687560" label="" volgnummer="215">
+<iMMix:wordsequence>Dan verwacht je een klik, maar dat is niet altijd waar.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1687760" bron="TT" endtime="1691640" label="" volgnummer="216">
+<iMMix:wordsequence>Wat is dan die klik?Dat kan ik niet in woorden uitleggen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1691840" bron="TT" endtime="1693400" label="" volgnummer="217">
+<iMMix:wordsequence>Dat is echt een gevoel.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1693600" bron="TT" endtime="1697880" label="" volgnummer="218">
+<iMMix:wordsequence>Je hebt natuurlijk altijd zelf een bepaald gevoel van timing.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1698080" bron="TT" endtime="1701520" label="" volgnummer="219">
+<iMMix:wordsequence>Bepaalde ideeen over interpretatie van een werk.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1701720" bron="TT" endtime="1705960" label="" volgnummer="220">
+<iMMix:wordsequence>En het is heel fijn als dat vrij dicht bij mekaar ligt.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1706160" bron="TT" endtime="1708320" label="" volgnummer="221">
+<iMMix:wordsequence>Tussen dirigent en solist.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1708520" bron="TT" endtime="1715440" label="" volgnummer="222">
+<iMMix:wordsequence>Dus dat je eigenlijk weinig woorden nodig hebt tijdens de repetitie om zo'n werk goed samente krijgen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1715640" bron="TT" endtime="1721680" label="" volgnummer="223">
+<iMMix:wordsequence>Het leuke is: Hij heeft dit vioolconcert met het Radio Filharmonisch Orkest gespeeld.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1721880" bron="TT" endtime="1727200" label="" volgnummer="224">
+<iMMix:wordsequence>Helpt het nou dat hij violist was en nu dirigent voor jou of is het ook bedreigend?</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1727400" bron="TT" endtime="1728880" label="" volgnummer="225">
+<iMMix:wordsequence>Ik denk dat het helpt.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1729080" bron="TT" endtime="1732520" label="" volgnummer="226">
+<iMMix:wordsequence>Je voelt dat hij die werken door en door kent...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1732720" bron="TT" endtime="1736360" label="" volgnummer="227">
+<iMMix:wordsequence>omdat hij ze zelf als solist natuurlijk heeft uitgevoerd.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1736560" bron="TT" endtime="1738440" label="" volgnummer="228">
+<iMMix:wordsequence>En dat nu als dirigent doet.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1738640" bron="TT" endtime="1741760" label="" volgnummer="229">
+<iMMix:wordsequence>En dat voel ik.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1741960" bron="TT" endtime="1744080" label="" volgnummer="230">
+<iMMix:wordsequence>Als solist kan ik dat voelen, ja.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1771040" bron="TT" endtime="1775640" label="" volgnummer="231">
+<iMMix:wordsequence>We zijn nu in Golders Green, waar we mijn oud-leraar gaan bezoeken.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1775840" bron="TT" endtime="1782200" label="" volgnummer="232">
+<iMMix:wordsequence>Ik heb bij hem de laatste paar jaar van mijn studie aan de Royal Academy of Music mogen lessen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1782400" bron="TT" endtime="1786680" label="" volgnummer="233">
+<iMMix:wordsequence>Met heel veel plezier. Ik heb er heel warme herinneringen aan.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1786880" bron="TT" endtime="1788680" label="" volgnummer="234">
+<iMMix:wordsequence>Aan hem en aan zijn lessen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1788880" bron="TT" endtime="1794760" label="" volgnummer="235">
+<iMMix:wordsequence>En in het bijzonder aan de sfeer van zijn vioolklas.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1794960" bron="TT" endtime="1801560" label="" volgnummer="236">
+<iMMix:wordsequence>Hij was altijd... Wat heel bijzonder aan hem is, is dat hij alles voor zijn leerlingen over heeft.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1801760" bron="TT" endtime="1803240" label="" volgnummer="237">
+<iMMix:wordsequence>Niks is hem te veel.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1803440" bron="TT" endtime="1809120" label="" volgnummer="238">
+<iMMix:wordsequence>Dus ik heb er gewoon hele warme herinneringen aan.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="1809320" bron="TT" endtime="1812920" label="" volgnummer="239">
+<iMMix:wordsequence>Ik kom hier nog geregeld om hem op te zoeken.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2006000" bron="TT" endtime="2011120" label="" volgnummer="240">
+<iMMix:wordsequence>De lessen met hem waren eigenlijk meer een soort uitwisseling van ideeen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2011320" bron="TT" endtime="2015920" label="" volgnummer="241">
+<iMMix:wordsequence>Technisch gezien, dat zei hij net al, had ik gewoon die goede basis.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2016120" bron="TT" endtime="2018760" label="" volgnummer="242">
+<iMMix:wordsequence>Ik wist ook goed hoe ik moest studeren.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2018960" bron="TT" endtime="2022240" label="" volgnummer="243">
+<iMMix:wordsequence>Als ik naar een les kwam, dan was dat voor mekaar.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2022440" bron="TT" endtime="2026320" label="" volgnummer="244">
+<iMMix:wordsequence>Dus we konden echt concentreren op interpretatie.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2026520" bron="TT" endtime="2031400" label="" volgnummer="245">
+<iMMix:wordsequence>Hij zie mij natuurlijk wat zijn ideeen waren en ik had bepaalde ideeen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2031600" bron="TT" endtime="2034480" label="" volgnummer="246">
+<iMMix:wordsequence>Het was een soort uitwisseling eigenlijk.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2071960" bron="TT" endtime="2074320" label="" volgnummer="247">
+<iMMix:wordsequence>Londen heeft voor Simone veel betekend.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2074520" bron="TT" endtime="2079800" label="" volgnummer="248">
+<iMMix:wordsequence>Haar techniek is geperfectioneerd en haar manier van interpreteren volwassen geworden.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2080000" bron="TT" endtime="2084240" label="" volgnummer="249">
+<iMMix:wordsequence>Als laatste wil ze ons nog graag de school laten zien die zo belangrijk voor haar was.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2084440" bron="TT" endtime="2091600" label="" volgnummer="250">
+<iMMix:wordsequence>Na de Yehudi Menuhin-opleiding ging Simone op 14-jarige leeftijd lessen volgen aan de Royal Academy of Music</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2091800" bron="TT" endtime="2096480" label="" volgnummer="251">
+<iMMix:wordsequence>Een bijzonder conservatorium met de beroemde 'galery of strings'.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2096680" bron="TT" endtime="2099800" label="" volgnummer="252">
+<iMMix:wordsequence>We zijn nu in de Royal Academy of Music in Londen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2100000" bron="TT" endtime="2102680" label="" volgnummer="253">
+<iMMix:wordsequence>Waar ik zes jaar lang heb gestudeerd.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2102880" bron="TT" endtime="2108560" label="" volgnummer="254">
+<iMMix:wordsequence>Een vrij lange tijd. Ik heb hier ongelooflijk veel geleerd.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2108760" bron="TT" endtime="2111160" label="" volgnummer="255">
+<iMMix:wordsequence>En het heel erg naar mijn zin gehad.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2111360" bron="TT" endtime="2115840" label="" volgnummer="256">
+<iMMix:wordsequence>Ik ben hier ook afgestudeerd. Ja, heel erg mooi.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2146120" bron="TT" endtime="2150160" label="" volgnummer="257">
+<iMMix:wordsequence>Dit was de viool waar ik een aantal jaar op heb mogen spelen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2150360" bron="TT" endtime="2154720" label="" volgnummer="258">
+<iMMix:wordsequence>Tijdens mijn studie hier. Echt een heel bijzonder instrument.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2156320" bron="TT" endtime="2161200" label="" volgnummer="259">
+<iMMix:wordsequence>Ik heb heel veel geluk dat ik nu weer zo'n mooi instrument kan bespelen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2161400" bron="TT" endtime="2166040" label="" volgnummer="260">
+<iMMix:wordsequence>Weer een Stradivarius. Maar dit is echt heel bijzonder.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2166240" bron="TT" endtime="2171920" label="" volgnummer="261">
+<iMMix:wordsequence>Al voordat ik deze viool kreeg had ik al mooie violen te leen van mensen hier.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2172120" bron="TT" endtime="2177240" label="" volgnummer="262">
+<iMMix:wordsequence>Op een gegeven moment ging ik naar een groot concours en dan zegt je leraar:</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2177440" bron="TT" endtime="2180800" label="" volgnummer="263">
+<iMMix:wordsequence>Eigenlijk heb je nog een beter instrument nodig.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2181000" bron="TT" endtime="2185280" label="" volgnummer="264">
+<iMMix:wordsequence>Of in ieder geval iets wat natuurlijk draagt in een grote zaal.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2185480" bron="TT" endtime="2188360" label="" volgnummer="265">
+<iMMix:wordsequence>Voor een belangrijk concert of concours.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2188560" bron="TT" endtime="2193960" label="" volgnummer="266">
+<iMMix:wordsequence>En zo gaat dat dan eigenlijk. Zo komt zoiets tot stand.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2194160" bron="TT" endtime="2196960" label="" volgnummer="267">
+<iMMix:wordsequence>Op een gegeven moment kreeg ik deze kans.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2237760" bron="TT" endtime="2240040" label="" volgnummer="268">
+<iMMix:wordsequence>Ik voel me absoluut bevoorrecht.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2240240" bron="TT" endtime="2243280" label="" volgnummer="269">
+<iMMix:wordsequence>Ik denk dat het ontzettend belangrijk is...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2244560" bron="TT" endtime="2248080" label="" volgnummer="270">
+<iMMix:wordsequence>dat je ouders hebt die je steunen op de goede manier.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2249800" bron="TT" endtime="2253240" label="" volgnummer="271">
+<iMMix:wordsequence>Maar die je wel vrij laten en naar je luisteren.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2253440" bron="TT" endtime="2259880" label="" volgnummer="272">
+<iMMix:wordsequence>Mijn ouders hebben ook altijd goed naar mij geluisterd, maar me ook gesteund, gestimuleerd.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2261400" bron="TT" endtime="2266840" label="" volgnummer="273">
+<iMMix:wordsequence>Het is voor ons niet gemakkelijk geweest om de studie in Engeland te bekostigen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2267040" bron="TT" endtime="2269080" label="" volgnummer="274">
+<iMMix:wordsequence>Voor mijn ouders natuurlijk.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2269280" bron="TT" endtime="2273640" label="" volgnummer="275">
+<iMMix:wordsequence>Het is uiteindelijk toch gelukt met heel veel hulp van fondsen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2273840" bron="TT" endtime="2277880" label="" volgnummer="276">
+<iMMix:wordsequence>Ik ben er heel erg dankbaar voor dat het allemaal gelukt is.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2278080" bron="TT" endtime="2280560" label="" volgnummer="277">
+<iMMix:wordsequence>Dat ik het toch heb kunnen afronden.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2347840" bron="TT" endtime="2352720" label="" volgnummer="278">
+<iMMix:wordsequence>Herken je iets van jouw beginjaren als keihard werkende tiener?</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2352920" bron="TT" endtime="2355000" label="" volgnummer="279">
+<iMMix:wordsequence>Nee, zij is gewoon beter.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2355960" bron="TT" endtime="2357520" label="" volgnummer="280">
+<iMMix:wordsequence>Zij is gewoon sterker.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2357720" bron="TT" endtime="2363040" label="" volgnummer="281">
+<iMMix:wordsequence>Ze staat gewoon toch op een heel ander plan dan ik speel.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2363240" bron="TT" endtime="2365400" label="" volgnummer="282">
+<iMMix:wordsequence>Hoe herken je dat dan?</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2365600" bron="TT" endtime="2369720" label="" volgnummer="283">
+<iMMix:wordsequence>Ik weet gewoon wat ik kon. Dat zit in mijn 'memory', zeg maar.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2369920" bron="TT" endtime="2371400" label="" volgnummer="284">
+<iMMix:wordsequence>En ik weet wat zij kan.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2371600" bron="TT" endtime="2373720" label="" volgnummer="285">
+<iMMix:wordsequence>En dat is toch een ander niveau.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2402960" bron="TT" endtime="2405760" label="" volgnummer="286">
+<iMMix:wordsequence>Het gaat om het vioolspel en niet om haar.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2405960" bron="TT" endtime="2412800" label="" volgnummer="287">
+<iMMix:wordsequence>En daardoor staat zij ook dichter bij de muziek dan wie dan ook, die dat instrument bespeelt,denk ik.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2429880" bron="TT" endtime="2432760" label="" volgnummer="288">
+<iMMix:wordsequence>AANZWELLEND APPLAUS</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2477720" bron="TT" endtime="2481960" label="" volgnummer="289">
+<iMMix:wordsequence>Het is een hele jonge violiste die zeven, acht jaar geleden al opviel.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2482160" bron="TT" endtime="2485880" label="" volgnummer="290">
+<iMMix:wordsequence>Vanwege de combinatie van technisch alles kunnen...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2486080" bron="TT" endtime="2489080" label="" volgnummer="291">
+<iMMix:wordsequence>de moeilijkste passages krijgt ze er feilloos uit...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2489280" bron="TT" endtime="2491680" label="" volgnummer="292">
+<iMMix:wordsequence>maar ook een enorme muzikaliteit.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2491880" bron="TT" endtime="2497240" label="" volgnummer="293">
+<iMMix:wordsequence>Daar hoorde je ook in de meest stille passages waar haar toon zo intens blijft.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2497440" bron="TT" endtime="2502960" label="" volgnummer="294">
+<iMMix:wordsequence>Ook al is hij bijna niet meer hoorbaar, dat zo'n zaal werkelijk helemaal stil is.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2504160" bron="TT" endtime="2505640" label="" volgnummer="295">
+<iMMix:wordsequence>ONVERSTAANBAAR</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2505840" bron="TT" endtime="2508600" label="" volgnummer="296">
+<iMMix:wordsequence>He? Haha! Fantastisch!</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2522120" bron="TT" endtime="2524520" label="" volgnummer="297">
+<iMMix:wordsequence>Tot zover violiste Simone Lamsma.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2524720" bron="TT" endtime="2531840" label="" volgnummer="298">
+<iMMix:wordsequence>Dan nu een mooie registratie, gemaakt maart vorig jaar tijdens de NTR Zaterdagmatinee, Concertgebouw.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2532040" bron="TT" endtime="2537240" label="" volgnummer="299">
+<iMMix:wordsequence>Het Radio Filharmonisch Orkest speelt onder leiding van Sir Mark Elder...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="2537440" bron="TT" endtime="2539720" label="" volgnummer="300">
+<iMMix:wordsequence>Brigg Fair van Frederick Delius.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="3613360" bron="TT" endtime="3617480" label="" volgnummer="301">
+<iMMix:wordsequence>Volgende week een portret van pianist Ronald Brautigam.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="3617680" bron="TT" endtime="3622720" label="" volgnummer="302">
+<iMMix:wordsequence>En de registratie van de uitvoering van het 22e pianoconcert van Mozart.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="13500469">
+<iMMix:speech begintime="3634120" bron="TT" endtime="3638080" label="" volgnummer="303">
+<iMMix:wordsequence>NPO ONDERTITELING TT888, 2014 tt888reacties(a)npo.nl</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+</iMMix:transcriptie>
+</iMMix:DataSetExpressie></metadata></record></GetRecord></OAI-PMH>

@@ -1,0 +1,1219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"><responseDate>2016-04-21T10:52:22.816+02:00</responseDate><request verb="GetRecord" identifier="oai:beeldengeluid.nl:Expressie:4194822" metadataPrefix="iMMix">http://integrator.beeldengeluid.nl:80/search_service_rs/oai/</request><GetRecord><record><header><identifier>oai:beeldengeluid.nl:Expressie:4194822</identifier><datestamp>2016-04-08T05:57:07Z</datestamp></header><metadata><iMMix:DataSetExpressie xmlns:iMMix="http://instituut.beeldengeluid.nl/namespace/iMMix" xmlns:ns2="http://beeldengeluid.nl/webservices/verityindexservice" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<iMMix:doc id="/351575/356373/392541/4194822">
+<iMMix:expressie>
+<iMMix:docid>VPWON_1197856</iMMix:docid>
+<iMMix:afleveringsnummer>2</iMMix:afleveringsnummer>
+<iMMix:deel/>
+<iMMix:tijdsduur>3015240</iMMix:tijdsduur>
+<iMMix:broncatalogus/>
+<iMMix:beschikbaarstelling/>
+<iMMix:collecties_online/>
+<iMMix:descriptie>
+<iMMix:titels>
+<iMMix:titel hoofdtitel="Y">
+<iMMix:tekst>De Finse tango</iMMix:tekst>
+<iMMix:taal/>
+<iMMix:type/>
+<iMMix:bron/>
+</iMMix:titel>
+</iMMix:titels>
+<iMMix:rollen/>
+<iMMix:opnameplaatsen>
+<iMMix:opnameplaats>Finland</iMMix:opnameplaats>
+</iMMix:opnameplaatsen>
+<iMMix:taalgebruiken>
+<iMMix:taalgebruik>
+<iMMix:taal>Engels</iMMix:taal>
+<iMMix:gebruik>overige talen/dialecten</iMMix:gebruik>
+</iMMix:taalgebruik>
+<iMMix:taalgebruik>
+<iMMix:taal>Fins</iMMix:taal>
+<iMMix:gebruik>overige talen/dialecten</iMMix:gebruik>
+</iMMix:taalgebruik>
+<iMMix:taalgebruik>
+<iMMix:taal>Nederlands</iMMix:taal>
+<iMMix:gebruik>ondertiteling separaat</iMMix:gebruik>
+</iMMix:taalgebruik>
+</iMMix:taalgebruiken>
+<iMMix:nationaliteiten/>
+<iMMix:context>
+<iMMix:onderscheiding/>
+<iMMix:gelegenheid/>
+<iMMix:kleur>kleur</iMMix:kleur>
+<iMMix:indicatie_stom/>
+<iMMix:contekst/>
+<iMMix:aanleidingcompositie/>
+</iMMix:context>
+<iMMix:opnamen>
+<iMMix:opname>
+<iMMix:begindatum/>
+<iMMix:einddatum/>
+<iMMix:datumprecisie/>
+<iMMix:productiejaar>2013</iMMix:productiejaar>
+<iMMix:montagedatum/>
+<iMMix:begintijd/>
+<iMMix:eindtijd/>
+<iMMix:indicatiepubliek/>
+<iMMix:annotatie/>
+</iMMix:opname>
+</iMMix:opnamen>
+<iMMix:recht>
+<iMMix:bron/>
+<iMMix:rechten/>
+<iMMix:blokkering/>
+<iMMix:licentie/>
+</iMMix:recht>
+<iMMix:descriptie_ontsluitingen>
+<iMMix:kijkwijzer_classificaties>
+<iMMix:kijkwijzer_classificatie>
+<iMMix:onderwerp>Angst</iMMix:onderwerp>
+<iMMix:leeftijdsgrens>alle leeftijden</iMMix:leeftijdsgrens>
+</iMMix:kijkwijzer_classificatie>
+<iMMix:kijkwijzer_classificatie>
+<iMMix:onderwerp>Discriminatie</iMMix:onderwerp>
+<iMMix:leeftijdsgrens>alle leeftijden</iMMix:leeftijdsgrens>
+</iMMix:kijkwijzer_classificatie>
+<iMMix:kijkwijzer_classificatie>
+<iMMix:onderwerp>Drugs- en alcoholmisbruik</iMMix:onderwerp>
+<iMMix:leeftijdsgrens>alle leeftijden</iMMix:leeftijdsgrens>
+</iMMix:kijkwijzer_classificatie>
+<iMMix:kijkwijzer_classificatie>
+<iMMix:onderwerp>Geweld</iMMix:onderwerp>
+<iMMix:leeftijdsgrens>alle leeftijden</iMMix:leeftijdsgrens>
+</iMMix:kijkwijzer_classificatie>
+<iMMix:kijkwijzer_classificatie>
+<iMMix:onderwerp>Sex</iMMix:onderwerp>
+<iMMix:leeftijdsgrens>alle leeftijden</iMMix:leeftijdsgrens>
+</iMMix:kijkwijzer_classificatie>
+</iMMix:kijkwijzer_classificaties>
+</iMMix:descriptie_ontsluitingen>
+</iMMix:descriptie>
+</iMMix:expressie>
+<iMMix:publicaties>
+<iMMix:publicatie>
+<iMMix:id>4597328</iMMix:id>
+<iMMix:titel/>
+<iMMix:type>uitzending</iMMix:type>
+<iMMix:begindatum>27-10-2013</iMMix:begindatum>
+<iMMix:einddatum/>
+<iMMix:datumprecisie/>
+<iMMix:begintijd>73474000</iMMix:begintijd>
+<iMMix:eindtijd>76489240</iMMix:eindtijd>
+<iMMix:tijdsduur>3015240</iMMix:tijdsduur>
+<iMMix:tijdsduur_annotatie/>
+<iMMix:begintijdstip/>
+<iMMix:annotatie_publicatie>Stereo</iMMix:annotatie_publicatie>
+<iMMix:tijdcodestandaard/>
+<iMMix:distributiekanaal>televisie</iMMix:distributiekanaal>
+<iMMix:distributieformaat>HD1080i</iMMix:distributieformaat>
+<iMMix:gelegenheid/>
+<iMMix:indicatie_herhaling>0</iMMix:indicatie_herhaling>
+<iMMix:indicatie_live/>
+<iMMix:uitzendfrequentie/>
+<iMMix:begin_binnen_expressie/>
+<iMMix:einde_binnen_expressie/>
+<iMMix:ontvangstdatum/>
+<iMMix:weeknummer/>
+<iMMix:sorteerdatum>27-10-2013</iMMix:sorteerdatum>
+<iMMix:sorteertype>1</iMMix:sorteertype>
+<iMMix:technische_annotatie/>
+<iMMix:uitzendnorm>HD</iMMix:uitzendnorm>
+<iMMix:productID>VPWON_1197856</iMMix:productID>
+<iMMix:ugstatus>Onbekend</iMMix:ugstatus>
+<iMMix:netten>
+<iMMix:net>Nederland 2</iMMix:net>
+</iMMix:netten>
+<iMMix:zendgemachtigden>
+<iMMix:zendgemachtigde>VPRO</iMMix:zendgemachtigde>
+</iMMix:zendgemachtigden>
+</iMMix:publicatie>
+</iMMix:publicaties>
+<iMMix:Posities>
+<iMMix:Positie>
+<iMMix:begintijd/>
+<iMMix:eindtijd/>
+<iMMix:annotatie/>
+<iMMix:beginopdrager>120000</iMMix:beginopdrager>
+<iMMix:eindeopdrager>3135240</iMMix:eindeopdrager>
+<iMMix:volgnummer/>
+<iMMix:dragernummer>LICHT_OP_HET_-VPR00029382.890</iMMix:dragernummer>
+<iMMix:dragertype>890</iMMix:dragertype>
+<iMMix:archiefstatus/>
+<iMMix:depotstatus/>
+<iMMix:bewaarplaats>Digitaal Archief</iMMix:bewaarplaats>
+<iMMix:opbergeenheid/>
+<iMMix:dragerannotatie/>
+<iMMix:dragersoort>Programma</iMMix:dragersoort>
+<iMMix:dragerid>11915430</iMMix:dragerid>
+<iMMix:DMGUID/>
+<iMMix:SOF/>
+<iMMix:publID>4597328</iMMix:publID>
+<iMMix:ExterneReferentie/>
+<iMMix:beginpositieopdrager/>
+<iMMix:eindpositieopdrager/>
+<iMMix:formaat>HD1080i</iMMix:formaat>
+<iMMix:herkomst/>
+<iMMix:geluidstype/>
+<iMMix:metrage/>
+<iMMix:sortering/>
+<iMMix:locatie/>
+<iMMix:positieid>95208409</iMMix:positieid>
+<iMMix:TechnischeGegevens/>
+<iMMix:datum_aangemaakt>2014-02-03T14:02:53Z</iMMix:datum_aangemaakt>
+</iMMix:Positie>
+<iMMix:Positie>
+<iMMix:begintijd/>
+<iMMix:eindtijd/>
+<iMMix:annotatie/>
+<iMMix:beginopdrager>120000</iMMix:beginopdrager>
+<iMMix:eindeopdrager>3135240</iMMix:eindeopdrager>
+<iMMix:volgnummer/>
+<iMMix:dragernummer>LICHT_OP_HET_-VPR00029382</iMMix:dragernummer>
+<iMMix:dragertype>media archive</iMMix:dragertype>
+<iMMix:archiefstatus/>
+<iMMix:depotstatus/>
+<iMMix:bewaarplaats>Digitaal Archief</iMMix:bewaarplaats>
+<iMMix:opbergeenheid/>
+<iMMix:dragerannotatie/>
+<iMMix:dragersoort>Programma</iMMix:dragersoort>
+<iMMix:dragerid>11278018</iMMix:dragerid>
+<iMMix:DMGUID>20131027215347608007904507980C16E66DA380000004784B00000D0F064425</iMMix:DMGUID>
+<iMMix:SOF>115000</iMMix:SOF>
+<iMMix:publID>4597328</iMMix:publID>
+<iMMix:ExterneReferentie/>
+<iMMix:beginpositieopdrager/>
+<iMMix:eindpositieopdrager/>
+<iMMix:formaat>HD1080i</iMMix:formaat>
+<iMMix:herkomst/>
+<iMMix:geluidstype/>
+<iMMix:metrage/>
+<iMMix:sortering/>
+<iMMix:locatie/>
+<iMMix:positieid>94912034</iMMix:positieid>
+<iMMix:TechnischeGegevens/>
+<iMMix:datum_aangemaakt>2013-10-27T21:57:21Z</iMMix:datum_aangemaakt>
+</iMMix:Positie>
+<iMMix:Positie>
+<iMMix:begintijd/>
+<iMMix:eindtijd/>
+<iMMix:annotatie/>
+<iMMix:beginopdrager>120000</iMMix:beginopdrager>
+<iMMix:eindeopdrager>3135240</iMMix:eindeopdrager>
+<iMMix:volgnummer/>
+<iMMix:dragernummer>LICHT_OP_HET_-VPR00029382.mpg</iMMix:dragernummer>
+<iMMix:dragertype>MPG1</iMMix:dragertype>
+<iMMix:archiefstatus/>
+<iMMix:depotstatus/>
+<iMMix:bewaarplaats>Digitaal Archief</iMMix:bewaarplaats>
+<iMMix:opbergeenheid/>
+<iMMix:dragerannotatie/>
+<iMMix:dragersoort>Programma</iMMix:dragersoort>
+<iMMix:dragerid>11278019</iMMix:dragerid>
+<iMMix:DMGUID/>
+<iMMix:SOF/>
+<iMMix:publID>4597328</iMMix:publID>
+<iMMix:ExterneReferentie/>
+<iMMix:beginpositieopdrager/>
+<iMMix:eindpositieopdrager/>
+<iMMix:formaat>HD1080i</iMMix:formaat>
+<iMMix:herkomst/>
+<iMMix:geluidstype/>
+<iMMix:metrage/>
+<iMMix:sortering/>
+<iMMix:locatie/>
+<iMMix:positieid>94912035</iMMix:positieid>
+<iMMix:TechnischeGegevens/>
+<iMMix:datum_aangemaakt>2013-10-27T21:57:22Z</iMMix:datum_aangemaakt>
+</iMMix:Positie>
+<iMMix:Positie>
+<iMMix:begintijd/>
+<iMMix:eindtijd/>
+<iMMix:annotatie/>
+<iMMix:beginopdrager>120000</iMMix:beginopdrager>
+<iMMix:eindeopdrager>3135240</iMMix:eindeopdrager>
+<iMMix:volgnummer/>
+<iMMix:dragernummer>LICHT_OP_HET_-VPR00029382.mxf</iMMix:dragernummer>
+<iMMix:dragertype>MXF</iMMix:dragertype>
+<iMMix:archiefstatus/>
+<iMMix:depotstatus/>
+<iMMix:bewaarplaats>Digitaal Archief</iMMix:bewaarplaats>
+<iMMix:opbergeenheid/>
+<iMMix:dragerannotatie/>
+<iMMix:dragersoort>Programma</iMMix:dragersoort>
+<iMMix:dragerid>11278020</iMMix:dragerid>
+<iMMix:DMGUID/>
+<iMMix:SOF/>
+<iMMix:publID>4597328</iMMix:publID>
+<iMMix:ExterneReferentie/>
+<iMMix:beginpositieopdrager/>
+<iMMix:eindpositieopdrager/>
+<iMMix:formaat>HD1080i</iMMix:formaat>
+<iMMix:herkomst/>
+<iMMix:geluidstype/>
+<iMMix:metrage/>
+<iMMix:sortering/>
+<iMMix:locatie/>
+<iMMix:positieid>94912036</iMMix:positieid>
+<iMMix:TechnischeGegevens/>
+<iMMix:datum_aangemaakt>2013-10-27T21:57:22Z</iMMix:datum_aangemaakt>
+</iMMix:Positie>
+<iMMix:Positie>
+<iMMix:begintijd/>
+<iMMix:eindtijd/>
+<iMMix:annotatie/>
+<iMMix:beginopdrager>120000</iMMix:beginopdrager>
+<iMMix:eindeopdrager>3135240</iMMix:eindeopdrager>
+<iMMix:volgnummer/>
+<iMMix:dragernummer>2013-10-27-20,25-2_2013-10-27-20,25-2_VPWON_1197856.stl</iMMix:dragernummer>
+<iMMix:dragertype>stl</iMMix:dragertype>
+<iMMix:archiefstatus>uitgangsmateriaal</iMMix:archiefstatus>
+<iMMix:depotstatus>in depot</iMMix:depotstatus>
+<iMMix:bewaarplaats/>
+<iMMix:opbergeenheid/>
+<iMMix:dragerannotatie/>
+<iMMix:dragersoort>Programma</iMMix:dragersoort>
+<iMMix:dragerid>11278177</iMMix:dragerid>
+<iMMix:DMGUID/>
+<iMMix:SOF/>
+<iMMix:publID>4597328</iMMix:publID>
+<iMMix:ExterneReferentie/>
+<iMMix:beginpositieopdrager/>
+<iMMix:eindpositieopdrager/>
+<iMMix:formaat/>
+<iMMix:herkomst/>
+<iMMix:geluidstype/>
+<iMMix:metrage/>
+<iMMix:sortering/>
+<iMMix:locatie>Digitaal archief</iMMix:locatie>
+<iMMix:positieid>94912592</iMMix:positieid>
+<iMMix:TechnischeGegevens/>
+<iMMix:datum_aangemaakt>2013-10-27T23:16:52Z</iMMix:datum_aangemaakt>
+<iMMix:parent_dragerid>11278020</iMMix:parent_dragerid>
+</iMMix:Positie>
+</iMMix:Posities>
+</iMMix:doc>
+<iMMix:Niveaus>
+<iMMix:Niveau intentieID="1" taalID="1">
+<iMMix:samenvatting>In deze aflevering gaat Jensen in Finland op zoek naar wat de Finnen 'sisu' noemen: een mengeling van doorzettingsvermogen, eerlijkheid en vastberadenheid. Zij laat daarnaast de schaduwkant van de Finse samenleving zien: in verhouding tot andere Europese landen kent Finland hoge percentages overmatig alcoholgebruik, echtscheiding en zelfmoord en rust er een taboe op het zoeken van psychische hulp.</iMMix:samenvatting>
+<iMMix:beschrijving>Jensen vaart mee op het bootje Merilintu, dat rondvaart om een groot wak open te houden. Zij geeft commentaar op een eigenaardig verschijnsel: de Finnen staan keurig in de rij bij de tram, maar op drie meter afstand van elkaar. Als een persoon dichterbij stapt, schuift de ander automatisch opzij.
+Ze koopt een cd van Rauli Badding Somerjoki (1947-1987), die zichzelf dood dronk. Ze praat met verschillende Finnen over echtscheidingen, depressies en zelfmoord en het feit dat de meeste Finnen weinig spraakzaam zijn en emoties onderdrukken. Ze reist door naar Kemijärvi in Lapland, waar bijna de helft van de inwoners werkloos werd na de sluiting van de papierfabriek. Ze ontmoet er acteur Kari Väänänen, die terugkeerde naar zijn geboortedorp om de lokale bevolking te helpen.
+INTERVIEWS met:
+- schipper die met zijn boot de zee ijsvrij houdt;
+- verkopers cd-zaak;
+- muzikanten die met Badding Somerjoki optraden. Zij vertellen over zijn podiumvrees en alcoholisme en de zelfmoord van muzikant Unto Mononen, wiens drie broers ook zelfmoord pleegden;
+- Turo en Rami, Kyösti, bandleden, over de Finse tango en sisu;
+- Teemu Villikka, filmmaker, regisseur van de documentaire 'Vlam voor het leven' over de 26-jarige Antti, een dorpsgenoot die aan depressies leed en in 2008 zelfmoord pleegde;
+- Leena Pousi, kunstenaar en moeder van Antti;
+- passagiers in de trein over de Winteroorlog tussen Finland en Rusland t.t.v. de Tweede Wereldoorlog;
+- Kari Väänänen, acteur en regisseur, die les geeft aan jongeren en maker is van een dramaserie over Lapland;
+- Leena Lehtolainen, schrijfster;
+- jongeren op straat.
+SHOTS:
+00:02:36 blik op Helsinki, kerktorens; truck vol sneeuw (letters op truck: sisu); vrachtwagen stort sneeuw in de Baltische Zee, gezien vanaf de boot; boot vaart in de ijszee; verkeer, tram;
+00:09:31 graf van Rauli Badding Somerjoki in de sneeuw; graf van Unto Mononen (1930-1968), muzikanten zingen en spelen accordeon bij het graf; optreden band, dansen van de tango, waarbij Jensen ook meedanst;
+00:17:29 sneeuwlandschap, huizen in de sneeuw; sneeuwpop; Jensen en Pousi bij het graf van Antti;
+00:29:14 stads- en straatshots Kemijärvi;
+00:35:28 Jensen bezoekt de sauna met Lehtolainen en een vriendin; twee naakte, Finse mannen (o.a. Väänänen?) in de sauna, die samen een biertje drinken en over het leven praten;
+00:43:06 Jensen op een hondenslee door de sneeuw en aan het vissen op het ijs.
+ARCHIEFMATERIAAL: optreden Badding Somerjoki: 'The worthless'; filmfragment 'Drifting Clouds' (1996) van Aki Kaurismäki.</iMMix:beschrijving>
+<iMMix:annotatie/>
+<iMMix:taakID>4910089</iMMix:taakID>
+<iMMix:ontsluitingen>
+<iMMix:museumtitel/>
+<iMMix:genres/>
+<iMMix:doelgroepen/>
+<iMMix:themas/>
+<iMMix:trefwoorden>
+<iMMix:trefwoord volgnummer="2">alcohol</iMMix:trefwoord>
+<iMMix:trefwoord volgnummer="1">alcoholisme</iMMix:trefwoord>
+<iMMix:trefwoord volgnummer="14">badhuizen</iMMix:trefwoord>
+<iMMix:trefwoord volgnummer="10">begraafplaatsen</iMMix:trefwoord>
+<iMMix:trefwoord volgnummer="4">depressies</iMMix:trefwoord>
+<iMMix:trefwoord volgnummer="17">emoties</iMMix:trefwoord>
+<iMMix:trefwoord volgnummer="11">graven</iMMix:trefwoord>
+<iMMix:trefwoord volgnummer="9">ijs</iMMix:trefwoord>
+<iMMix:trefwoord volgnummer="7">musici</iMMix:trefwoord>
+<iMMix:trefwoord volgnummer="6">muziek</iMMix:trefwoord>
+<iMMix:trefwoord volgnummer="3">scheidingen</iMMix:trefwoord>
+<iMMix:trefwoord volgnummer="15">sleeën</iMMix:trefwoord>
+<iMMix:trefwoord volgnummer="8">sneeuw</iMMix:trefwoord>
+<iMMix:trefwoord volgnummer="12">stadsbeelden</iMMix:trefwoord>
+<iMMix:trefwoord volgnummer="13">straatbeelden</iMMix:trefwoord>
+<iMMix:trefwoord volgnummer="16">vissen</iMMix:trefwoord>
+<iMMix:trefwoord volgnummer="5">zelfdoding</iMMix:trefwoord>
+</iMMix:trefwoorden>
+<iMMix:vervallen_trefwoorden/>
+<iMMix:rvd_genres/>
+<iMMix:persoonsnamen/>
+<iMMix:geografische_namen>
+<iMMix:geografische_naam>Finland</iMMix:geografische_naam>
+<iMMix:geografische_naam>Helsinki</iMMix:geografische_naam>
+<iMMix:geografische_naam>Lapland</iMMix:geografische_naam>
+<iMMix:geografische_naam>Rusland</iMMix:geografische_naam>
+</iMMix:geografische_namen>
+<iMMix:namen>
+<iMMix:naam>Tweede Wereldoorlog</iMMix:naam>
+</iMMix:namen>
+<iMMix:muziekstijlen/>
+<iMMix:deelcatalogi/>
+<iMMix:links/>
+</iMMix:ontsluitingen>
+</iMMix:Niveau>
+</iMMix:Niveaus>
+<iMMix:transcriptie>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="122000" bron="TT" endtime="123480" label="" volgnummer="1">
+<iMMix:wordsequence>888</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="126840" bron="TT" endtime="129800" label="" volgnummer="2">
+<iMMix:wordsequence>Het leven kan alleen achterwaarts begrepen worden.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="130000" bron="TT" endtime="132280" label="" volgnummer="3">
+<iMMix:wordsequence>Maar het moet voorwaarts worden geleefd.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="132480" bron="TT" endtime="135760" label="" volgnummer="4">
+<iMMix:wordsequence>Zei de Deense filosoof Soren Kierkegaard ooit.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="135960" bron="TT" endtime="139320" label="" volgnummer="5">
+<iMMix:wordsequence>Scandinavie wordt vaak als het paradijs gezien.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="139520" bron="TT" endtime="145200" label="" volgnummer="6">
+<iMMix:wordsequence>Toch ruilde mijn vader en moeder Denemarken in voor Nederland toen ik EEN jaar was.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="145400" bron="TT" endtime="149560" label="" volgnummer="7">
+<iMMix:wordsequence>In vier seizoenen reis ik door het hoge noorden.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="159360" bron="TT" endtime="167400" label="" volgnummer="8">
+<iMMix:wordsequence>MUZIEK: HELSINKI MOOD VAN TOM WAITS</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="174800" bron="TT" endtime="177280" label="" volgnummer="9">
+<iMMix:wordsequence>Ik ben nog nooit in Finland geweest.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="177480" bron="TT" endtime="181400" label="" volgnummer="10">
+<iMMix:wordsequence>Mijn ouders verkozen de andere Scandinavische landen voor vakantie.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="181600" bron="TT" endtime="185240" label="" volgnummer="11">
+<iMMix:wordsequence>Ze vonden Finland te koud, te donker.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="185440" bron="TT" endtime="190240" label="" volgnummer="12">
+<iMMix:wordsequence>Ik ken Finland vooral van de tragikomische films van Aki Kaurism╚aki.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="190440" bron="TT" endtime="193000" label="" volgnummer="13">
+<iMMix:wordsequence>Daarin wemelt het van de sombere figuren...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="193200" bron="TT" endtime="196200" label="" volgnummer="14">
+<iMMix:wordsequence>die net ontslagen zijn en troost zoeken bij de fles.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="196400" bron="TT" endtime="198680" label="" volgnummer="15">
+<iMMix:wordsequence>Maar ze dragen hun lot met kracht.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="198880" bron="TT" endtime="201760" label="" volgnummer="16">
+<iMMix:wordsequence>Ze hebben er zelfs een woord voor: 'sisu.'</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="204360" bron="TT" endtime="208720" label="" volgnummer="17">
+<iMMix:wordsequence>In de vrieskou van Helsinki probeert een vreemd bootje een wak open te houden.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="208920" bron="TT" endtime="214920" label="" volgnummer="18">
+<iMMix:wordsequence>Vrachtwagens storten elke dag enorme hoeveelheden sneeuw in de Baltische Zee.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="364280" bron="TT" endtime="369240" label="" volgnummer="19">
+<iMMix:wordsequence>MUZIEK: HELSINKI MOOD VAN TOM WAITS</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="377840" bron="TT" endtime="381280" label="" volgnummer="20">
+<iMMix:wordsequence>Bij de tramhalte zie ik iets wat ik niet eerder zag.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="382920" bron="TT" endtime="384960" label="" volgnummer="21">
+<iMMix:wordsequence>Mensen staan keurig in de rij.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="385160" bron="TT" endtime="388280" label="" volgnummer="22">
+<iMMix:wordsequence>Maar met pak 'm beet drie meter tussenruimte.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="388480" bron="TT" endtime="392000" label="" volgnummer="23">
+<iMMix:wordsequence>Als ik op een meter bij iemand vandaan gaat staan...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="392200" bron="TT" endtime="394600" label="" volgnummer="24">
+<iMMix:wordsequence>schuift hij automatisch twee meter opzij.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="394800" bron="TT" endtime="398200" label="" volgnummer="25">
+<iMMix:wordsequence>Hebben de Finnen contactvrees of houden ze van hun privacy?</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="398400" bron="TT" endtime="402920" label="" volgnummer="26">
+<iMMix:wordsequence>Of allebei? Leer mij die zogenaamde koele noorderlingen kennen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="403120" bron="TT" endtime="406680" label="" volgnummer="27">
+<iMMix:wordsequence>Misschien denken ze na over de nieuwe auto die ze gaan kopen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="406880" bron="TT" endtime="411480" label="" volgnummer="28">
+<iMMix:wordsequence>Maar volgens mij staan ze daar ook stilletjes te verlangen naar die ene grote liefde.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="426520" bron="TT" endtime="428000" label="" volgnummer="29">
+<iMMix:wordsequence>Ikke...prinsessa.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="428200" bron="TT" endtime="430320" label="" volgnummer="30">
+<iMMix:wordsequence>Il...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="472080" bron="TT" endtime="478520" label="" volgnummer="31">
+<iMMix:wordsequence>OPGEWEKTE, FINSE MUZIEK</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="485000" bron="TT" endtime="489680" label="" volgnummer="32">
+<iMMix:wordsequence>met de muziek op zak reis ik naar het geboortedorp van Rauli Badding.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="489880" bron="TT" endtime="493760" label="" volgnummer="33">
+<iMMix:wordsequence>In Somero, de bakermat van de Finse tango groeide hij op.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="497200" bron="TT" endtime="500640" label="" volgnummer="34">
+<iMMix:wordsequence>HIJ ZINGT IN HET FINS</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="664080" bron="TT" endtime="668360" label="" volgnummer="35">
+<iMMix:wordsequence>Rauli Baddings grote voorbeeld, Unto Manonen, ligt hier ook.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="668560" bron="TT" endtime="670280" label="" volgnummer="36">
+<iMMix:wordsequence>Onder een dik pak sneeuw.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="675320" bron="TT" endtime="680560" label="" volgnummer="37">
+<iMMix:wordsequence>ZE SPELEN FINSE TANGO-MUZIEK</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="815240" bron="TT" endtime="820440" label="" volgnummer="38">
+<iMMix:wordsequence>MUZIEK</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="889280" bron="TT" endtime="894960" label="" volgnummer="39">
+<iMMix:wordsequence>MUZIEK</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="962720" bron="TT" endtime="966200" label="" volgnummer="40">
+<iMMix:wordsequence>Het is best lang geleden dat ik dit toch wordt heb gedanst.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="966400" bron="TT" endtime="970280" label="" volgnummer="41">
+<iMMix:wordsequence>De Finse vrouwen zijn er iets beter op voorbereid dan ik.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="970480" bron="TT" endtime="975360" label="" volgnummer="42">
+<iMMix:wordsequence>Ze dragen bijna allemaal een enkelband met hun mobiele telefoon erin.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="975560" bron="TT" endtime="979960" label="" volgnummer="43">
+<iMMix:wordsequence>TANGOMUZIEK</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="983600" bron="TT" endtime="985720" label="" volgnummer="44">
+<iMMix:wordsequence>Ik durf niet meteen mee te doen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="985920" bron="TT" endtime="990480" label="" volgnummer="45">
+<iMMix:wordsequence>Maar goed, ik ben natuurlijk niet naar deze plek in the middle of nowheregereisd...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="990680" bron="TT" endtime="992960" label="" volgnummer="46">
+<iMMix:wordsequence>om als een bloempje aan de muur te blijven.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="993160" bron="TT" endtime="995560" label="" volgnummer="47">
+<iMMix:wordsequence>Bij de volgende dans waag ik de gok.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="995760" bron="TT" endtime="999760" label="" volgnummer="48">
+<iMMix:wordsequence>Misschien moet ik hier een tijdje zitten en heb ik wel wat 'sisu' nodig.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="999960" bron="TT" endtime="1003240" label="" volgnummer="49">
+<iMMix:wordsequence>Gelukkig komt er meteen een stevige Fin op me af.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="1003440" bron="TT" endtime="1006880" label="" volgnummer="50">
+<iMMix:wordsequence>TANGOMUZIEK</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="1017360" bron="TT" endtime="1020800" label="" volgnummer="51">
+<iMMix:wordsequence>Met deze man heb ik dus meer dan 20 rondjes gedanst.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="1021000" bron="TT" endtime="1023640" label="" volgnummer="52">
+<iMMix:wordsequence>We hadden van alles kunnen bespreken.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="1023840" bron="TT" endtime="1026800" label="" volgnummer="53">
+<iMMix:wordsequence>Over 'sisu', de sneeuw en de zin van het leven.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="1027000" bron="TT" endtime="1029720" label="" volgnummer="54">
+<iMMix:wordsequence>Maar mijn pogingen leverden de bar weinig op.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="1029920" bron="TT" endtime="1034600" label="" volgnummer="55">
+<iMMix:wordsequence>Het komt er eigenlijk op neer dat we geen woord met elkaar gewisseld.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="1034800" bron="TT" endtime="1040080" label="" volgnummer="56">
+<iMMix:wordsequence>TANGOMUZIEK</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="1040280" bron="TT" endtime="1043960" label="" volgnummer="57">
+<iMMix:wordsequence>GEDEMPTE TANGOMUZIEK</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="1061240" bron="TT" endtime="1066320" label="" volgnummer="58">
+<iMMix:wordsequence>Filmmaker Teemu Villikka heeft een indrukwekkende documentaire gemaakt.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="1066520" bron="TT" endtime="1069000" label="" volgnummer="59">
+<iMMix:wordsequence>Over Antti, een jongen uit zijn dorp.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="1069200" bron="TT" endtime="1072240" label="" volgnummer="60">
+<iMMix:wordsequence>Hij pleegde zelfmoord, net als veel Finnen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="1072440" bron="TT" endtime="1077480" label="" volgnummer="61">
+<iMMix:wordsequence>Ik vraag me af hoe het is als iemand die je kent zichzelf van het leven berooft.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="1496120" bron="TT" endtime="1497840" label="" volgnummer="62">
+<iMMix:wordsequence>Het leven kan zwaar zijn.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="1498040" bron="TT" endtime="1503600" label="" volgnummer="63">
+<iMMix:wordsequence>Maar dat is geen reden om te denken dat het altijd zo zal blijven, drukt Leena me op het hart.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="1503800" bron="TT" endtime="1506360" label="" volgnummer="64">
+<iMMix:wordsequence>Heb vertrouwen, zoek contact en hou vol.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="1506560" bron="TT" endtime="1509440" label="" volgnummer="65">
+<iMMix:wordsequence>Oftewel, heb 'sisu', dan komt het goed.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="1509640" bron="TT" endtime="1511760" label="" volgnummer="66">
+<iMMix:wordsequence>Maar het komt niet altijd goed.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="1511960" bron="TT" endtime="1516920" label="" volgnummer="67">
+<iMMix:wordsequence>De schrijver Arto Paasilinna zegt het zo in zijn boek De Zelfmoordclub:</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="1517120" bron="TT" endtime="1523640" label="" volgnummer="68">
+<iMMix:wordsequence>Somberheid, melancholie een bodemloze apathie zijn de grootste vijanden van het Finse volk.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="1523840" bron="TT" endtime="1527800" label="" volgnummer="69">
+<iMMix:wordsequence>De smart wordt zo sterk gevoeld dat veel Finnen de dood als enige uitweg zien.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="1528000" bron="TT" endtime="1533200" label="" volgnummer="70">
+<iMMix:wordsequence>Hun de beklemmende gemoed vormt een grotere bedreiging dan de Sovjetunie.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="1533400" bron="TT" endtime="1536600" label="" volgnummer="71">
+<iMMix:wordsequence>Ik reis verder naar het noorden, naar Lapland.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="1536800" bron="TT" endtime="1540960" label="" volgnummer="72">
+<iMMix:wordsequence>De trein rijdt langs de grens met Rusland.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="1751120" bron="TT" endtime="1756720" label="" volgnummer="73">
+<iMMix:wordsequence>MUZIEK: HELSINKI MOOD VAN TOM WAITS</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="1759680" bron="TT" endtime="1767040" label="" volgnummer="74">
+<iMMix:wordsequence>Bijna de helft van de inwoners van Kemij╚arvi werd werkloos na de sluiting van de papierfabriek.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="1767240" bron="TT" endtime="1771240" label="" volgnummer="75">
+<iMMix:wordsequence>MUZIEK: HELSINKI MOOD VAN TOM WAITS</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="1779720" bron="TT" endtime="1783240" label="" volgnummer="76">
+<iMMix:wordsequence>Kemij╚arvi is de woonplaats van Kari V╚a╚an╚anen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="1783440" bron="TT" endtime="1789840" label="" volgnummer="77">
+<iMMix:wordsequence>Kari keerde terug naar het dorp waar hij opgroeide om de lokale bevolking te helpen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="1790040" bron="TT" endtime="1796800" label="" volgnummer="78">
+<iMMix:wordsequence>Hij geeft nu les aan jongeren en maakt een dramaserie over Lapland waar nu heel Finland naar kijkt.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="1797000" bron="TT" endtime="1800280" label="" volgnummer="79">
+<iMMix:wordsequence>De rol van oer-Fin is hem op het lijf geschreven.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="1800480" bron="TT" endtime="1804760" label="" volgnummer="80">
+<iMMix:wordsequence>Kari V╚a╚an╚anen speelde mee in veel films van Aki Kaurism╚aki...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="1804960" bron="TT" endtime="1807920" label="" volgnummer="81">
+<iMMix:wordsequence>die bekendstaat om zijn inktzwarte humor.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="2001480" bron="TT" endtime="2005680" label="" volgnummer="82">
+<iMMix:wordsequence>Leena Lehtolainen is de populairste schrijver van Finland.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="2005880" bron="TT" endtime="2008680" label="" volgnummer="83">
+<iMMix:wordsequence>Ik ken haar van een schrijversfestival.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="2008880" bron="TT" endtime="2012480" label="" volgnummer="84">
+<iMMix:wordsequence>Haar werk vind ik goed en spannend, vol sterke Finse vrouwen...</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="2012680" bron="TT" endtime="2015800" label="" volgnummer="85">
+<iMMix:wordsequence>en gevoelige Finse mannen met nogal een klein hartje.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="2116440" bron="TT" endtime="2121160" label="" volgnummer="86">
+<iMMix:wordsequence>Het lijkt wat vreemd om met iemand die je nog niet zo goed kent de sauna in te duiken.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="2121360" bron="TT" endtime="2124320" label="" volgnummer="87">
+<iMMix:wordsequence>Maar in Finland is dat heel gewoon, vertelt Leena me.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="2124520" bron="TT" endtime="2126960" label="" volgnummer="88">
+<iMMix:wordsequence>Ze heeft ook nog een vriendin uitgenodigd.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="2163040" bron="TT" endtime="2166120" label="" volgnummer="89">
+<iMMix:wordsequence>In Finland hebben bijna alle huizen een prive-sauna.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="2166320" bron="TT" endtime="2170080" label="" volgnummer="90">
+<iMMix:wordsequence>De sauna's zijn niet gemengd, tenzij je familie van elkaar bent.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="2170280" bron="TT" endtime="2172920" label="" volgnummer="91">
+<iMMix:wordsequence>Vriendinnen praten er over het leven.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="2173120" bron="TT" endtime="2178400" label="" volgnummer="92">
+<iMMix:wordsequence>Ik vraag me af of het ook de plek is waar de stugge Finse man zijn gevoelens uit.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="2253400" bron="TT" endtime="2259280" label="" volgnummer="93">
+<iMMix:wordsequence>GESIS</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="2534280" bron="TT" endtime="2536480" label="" volgnummer="94">
+<iMMix:wordsequence>Wat kun je doen? Rondjes rijden.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="2536680" bron="TT" endtime="2539320" label="" volgnummer="95">
+<iMMix:wordsequence>Eindeloos rondjes rijden met je auto.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="2539520" bron="TT" endtime="2542000" label="" volgnummer="96">
+<iMMix:wordsequence>Over het ijs, en slippen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="2542200" bron="TT" endtime="2543680" label="" volgnummer="97">
+<iMMix:wordsequence>Als tijdverdrijf.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="2543880" bron="TT" endtime="2545360" label="" volgnummer="98">
+<iMMix:wordsequence>Tegen de verveling.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="2545560" bron="TT" endtime="2549520" label="" volgnummer="99">
+<iMMix:wordsequence>En een beetje peinzen over de nieuwe auto die je wil kopen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="2549720" bron="TT" endtime="2551200" label="" volgnummer="100">
+<iMMix:wordsequence>Over de meisjes.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="2551400" bron="TT" endtime="2556200" label="" volgnummer="101">
+<iMMix:wordsequence>Want deze autoraces worden heel stoer pussy-rally's genoemd.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="2556400" bron="TT" endtime="2560760" label="" volgnummer="102">
+<iMMix:wordsequence>Dat klinkt macho, maar ik zag vooral lieve, gevoelige jongens.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="2560960" bron="TT" endtime="2563640" label="" volgnummer="103">
+<iMMix:wordsequence>Van wederom een heleboel gescheiden ouders.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="2563840" bron="TT" endtime="2565720" label="" volgnummer="104">
+<iMMix:wordsequence>Daar lijkt het land wel vol mee.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="2565920" bron="TT" endtime="2569280" label="" volgnummer="105">
+<iMMix:wordsequence>Deze jongens willen het denk ik beter doen dan hun vader en moeder.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="2569480" bron="TT" endtime="2572040" label="" volgnummer="106">
+<iMMix:wordsequence>Die snelle auto staat voor een droom.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="2572240" bron="TT" endtime="2574440" label="" volgnummer="107">
+<iMMix:wordsequence>Hoe meer rondjes, hoe meer sisu.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="2574640" bron="TT" endtime="2578360" label="" volgnummer="108">
+<iMMix:wordsequence>Laten ze zonder al te veel woorden aan de meisjes zien.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="2602560" bron="TT" endtime="2604440" label="" volgnummer="109">
+<iMMix:wordsequence>Go!</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="2923920" bron="TT" endtime="2928880" label="" volgnummer="110">
+<iMMix:wordsequence>FINSE MUZIEK</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="2929080" bron="TT" endtime="2931200" label="" volgnummer="111">
+<iMMix:wordsequence>DE MAN ZINGT KARAOKE IN HET FINS</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="2988640" bron="TT" endtime="2993120" label="" volgnummer="112">
+<iMMix:wordsequence>DE MAN ZINGT KARAOKE IN HET FINS</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="3055800" bron="TT" endtime="3057280" label="" volgnummer="113">
+<iMMix:wordsequence>Leena heeft gelijk.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="3057480" bron="TT" endtime="3062520" label="" volgnummer="114">
+<iMMix:wordsequence>Bij te veel sisu slaat het besneeuwde rustparadijs om in een donkere hel.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="3062720" bron="TT" endtime="3065320" label="" volgnummer="115">
+<iMMix:wordsequence>Met drank, slaan en ruzie.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="3065520" bron="TT" endtime="3068160" label="" volgnummer="116">
+<iMMix:wordsequence>Maar ik bewonder ook de sisu van de Fin.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="3068360" bron="TT" endtime="3071080" label="" volgnummer="117">
+<iMMix:wordsequence>Sisu geef je de kracht om door te zetten.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="3071280" bron="TT" endtime="3074320" label="" volgnummer="118">
+<iMMix:wordsequence>Ook al is het leven zwaar en ook al is het koud.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="3074520" bron="TT" endtime="3078560" label="" volgnummer="119">
+<iMMix:wordsequence>Sisu maakt het mogelijk om eindeloos die rondjes te varen.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="3078760" bron="TT" endtime="3082720" label="" volgnummer="120">
+<iMMix:wordsequence>In je eentje, terwijl de rest van Helsinki op EEN oor ligt.</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="3082920" bron="TT" endtime="3088840" label="" volgnummer="121">
+<iMMix:wordsequence>FINSE MUZIEK</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+<iMMix:sentences dragerid="11278177">
+<iMMix:speech begintime="3131000" bron="TT" endtime="3135200" label="" volgnummer="122">
+<iMMix:wordsequence>NPO ONDERTITELING TT888, 2013 tt888reacties(a)omroep.nl</iMMix:wordsequence>
+<iMMix:recht/>
+<iMMix:annotatie/>
+</iMMix:speech>
+</iMMix:sentences>
+</iMMix:transcriptie>
+</iMMix:DataSetExpressie></metadata></record></GetRecord></OAI-PMH>

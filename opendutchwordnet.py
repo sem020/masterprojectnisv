@@ -1,0 +1,1 @@
+from OpenDutchWordnet import Wn_grid_parser
