@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../OpenDutchWordnet/.idea/OpenDutchWordnet.iml" filepath="$PROJECT_DIR$/../OpenDutchWordnet/.idea/OpenDutchWordnet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/masterproject.iml" filepath="$PROJECT_DIR$/.idea/masterproject.iml" />
+    </modules>
+  </component>
+</project>
